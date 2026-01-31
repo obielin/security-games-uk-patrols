@@ -65,13 +65,13 @@ Any operational deployment would require governance, human oversight, and period
 
 ## Roadmap (Planned Daily Commits)
 
-- Day 1: Repository scaffold, research framing, reproducibility baseline
-- Day 2: UK Police API ingestion and Westminster data extraction
-- Day 3: Spatial zoning and risk surface construction
-- Day 4: Stackelberg baseline solver and patrol strategies
-- Day 5: Novel extension (robust or behavioural attacker model)
-- Day 6: Fairness and constraint analysis
-- Day 7: Results synthesis and reproducibility polish
+- Repository scaffold, research framing, reproducibility baseline
+- UK Police API ingestion and Westminster data extraction
+- Spatial zoning and risk surface construction
+- Stackelberg baseline solver and patrol strategies
+- Novel extension (robust or behavioural attacker model)
+- Fairness and constraint analysis
+- Results synthesis and reproducibility polish
 
 ---
 
