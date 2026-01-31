@@ -13,3 +13,7 @@ data/processed/
 *.csv
 *.parquet
 *.geojson
+# --- Allow small, explicit research samples ---
+!data/sample/
+!data/sample/*.csv
+

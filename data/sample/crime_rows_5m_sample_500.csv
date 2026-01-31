@@ -1,0 +1,501 @@
+crime_category,persistent_id,month,latitude,longitude,street_id,street_name,location_type,outcome_category,outcome_date,query_month
+shoplifting,50614e278b7ffd55a11676d67e00def5729c170fb0469a44f5b014faf4219dd1,2025-08,51.512166,-0.123818,1678947,On or near Shopping Area,Force,Investigation complete; no suspect identified,2025-08,2025-08
+other-crime,d9e30b5370e652ac3695ba88cc1d91c396d667c75fd2285ec30add9518d9f671,2025-07,51.520408,-0.136041,1677241,On or near Charlotte Mews,Force,Status update unavailable,2025-11,2025-07
+theft-from-the-person,1efe7a7b99aa5b8a2b8bdbd79eeb8cf0818306cd0af4195a40ad1f723d656f4e,2025-11,51.511884,-0.108027,1490749,On or near Temple Avenue,Force,Investigation complete; no suspect identified,2025-11,2025-11
+shoplifting,d2a4e39216d2cb3808a397175cdbb97cb45f01faff66b53398011e2c0ad535fd,2025-09,51.498595,-0.113202,1680677,On or near Newnham Terrace,Force,Investigation complete; no suspect identified,2025-09,2025-09
+robbery,d75b6ca1ed837a3ca25439a9ef021d67e094f6ce28a86b978b1547ec21639737,2025-09,51.51179,-0.132459,1677744,On or near A401,Force,Under investigation,2025-09,2025-09
+theft-from-the-person,d2d09fb4d3c4c1051925fdebaaafd999ffefcb7ed5ff50885394aa81619e9da5,2025-08,51.50797,-0.133162,1677656,On or near Charles Ii Street,Force,Investigation complete; no suspect identified,2025-08,2025-08
+anti-social-behaviour,,2025-08,51.498553,-0.135291,1677378,On or near Caxton Street,Force,,,2025-08
+public-order,c9e4fe72c229e8314e26437f9f184a693ee7bf760c1ec7540634a3342ba9043b,2025-07,51.507832,-0.123383,1679120,On or near Villiers Street,Force,Investigation complete; no suspect identified,2025-11,2025-07
+shoplifting,aa66f9c6e73120ab530a8df987e21c373c7932064447adb4da8ae990b938823a,2025-09,51.514195,-0.145735,1675879,On or near Dering Street,Force,Investigation complete; no suspect identified,2025-09,2025-09
+other-theft,10436036536ea6c46cd56426c3137e61b6c9129221a8a84730a54ae0c7c63765,2025-11,51.514195,-0.145735,1675879,On or near Dering Street,Force,Investigation complete; no suspect identified,2025-11,2025-11
+anti-social-behaviour,,2025-07,51.50845,-0.143266,1676091,On or near Nightclub,Force,,,2025-07
+drugs,0c130e96691cb13e8538914d645728651aabb425f66a6056d8746241a541743f,2025-08,51.510635,-0.145807,1675819,On or near Bruton Place,Force,Local resolution,2025-10,2025-08
+burglary,f66a3af8a18c69970029af532cdf3702c6fcc10a52857f4f5e99926f6c4d3fb4,2025-10,51.51052,-0.137439,1677019,On or near Glasshouse Street,Force,Under investigation,2025-10,2025-10
+violent-crime,f6499b59531cb59209259a0abc8730357c4ca94fdcf3e72a9695455628ee3d17,2025-09,51.518567,-0.132282,1677789,On or near B506,Force,Investigation complete; no suspect identified,2025-09,2025-09
+anti-social-behaviour,,2025-09,51.498335,-0.131193,1677860,On or near Abbey Orchard Street,Force,,,2025-09
+theft-from-the-person,247021f23e270d84ae1655bb0c9b8073482459e23246bf1c420c4503b0adf591,2025-07,51.500978,-0.125524,1678704,On or near Bridge Street,Force,Investigation complete; no suspect identified,2025-07,2025-07
+anti-social-behaviour,,2025-08,51.510042,-0.120439,1679444,On or near Savoy Way,Force,,,2025-08
+shoplifting,cdd4af16fef53ce0df1f44c92a0d08f02a6d465a5e2a196a024ac5e72595ceec,2025-08,51.513575,-0.140687,1676566,On or near Shopping Area,Force,Investigation complete; no suspect identified,2025-08,2025-08
+theft-from-the-person,f74ce960270dd050ef26498b4135a377f06075c548db4185413e01be76c87e1a,2025-11,51.511339,-0.128427,1678405,On or near Cranbourn Street,Force,Under investigation,2025-11,2025-11
+anti-social-behaviour,,2025-08,51.51179,-0.132459,1677744,On or near A401,Force,,,2025-08
+theft-from-the-person,8548ea6c01a5bd2cd6bca0466757059b7f8482cd2c931167937d236f736181b4,2025-11,51.515753,-0.143092,1676083,On or near John Prince's Street,Force,Investigation complete; no suspect identified,2025-11,2025-11
+violent-crime,805e0e5c4f06ebc38f08e71a9a4a87ce743edec7d0e4ad10c87f843b1eea10c8,2025-11,51.514365,-0.143408,1675924,On or near Princes Street,Force,Under investigation,2025-11,2025-11
+theft-from-the-person,c4789b9c16dbd2c20b0baf4b72590e3ae9b02015412082a2d2592af7989379c6,2025-10,51.51176,-0.131163,1678022,On or near Gerrard Street,Force,Investigation complete; no suspect identified,2025-10,2025-10
+theft-from-the-person,6b0d189186ec47262bf9db169eec4800682d8cc6ef03db56018892ecd8abc94c,2025-09,51.514971,-0.133438,1677609,On or near Carlisle Street,Force,Investigation complete; no suspect identified,2025-09,2025-09
+criminal-damage-arson,7e17fe47016d36d9df97478b34f6848944b321d517c56975e0f0e2898b061f52,2025-09,51.511534,-0.130495,1678076,On or near Lisle Street,Force,Investigation complete; no suspect identified,2025-09,2025-09
+violent-crime,aa5be381c589435a4b0f07326d5f531d1e16bc1a78ee2d049f020e91316bbb1f,2025-11,51.509786,-0.124658,1678937,On or near Police Station,Force,Under investigation,2025-11,2025-11
+other-theft,e1d071aa18cb146e709e2090bbfc26c1cb1710f39d429af47bd79b412c4e0e70,2025-08,51.51394,-0.1325,1677796,On or near Nightclub,Force,Investigation complete; no suspect identified,2025-11,2025-08
+other-theft,c4f4625d5fd83b55bc0465c731eab2291fee3e961f7f935f08d46cf664d9387e,2025-10,51.512416,-0.133384,1677661,On or near Nightclub,Force,Under investigation,2025-10,2025-10
+other-theft,b9dfd28f5e1159a6408402f1f705d3dbf1cac4e37be524332ef0261f67a6fb39,2025-08,51.49644,-0.135867,1677223,On or near Spencer Place,Force,Investigation complete; no suspect identified,2025-08,2025-08
+theft-from-the-person,731b3d09cc69f211c170780f3dd280f41bd4051a108140802136f3c73a037412,2025-11,51.511997,-0.131355,1677958,On or near Macclesfield Street,Force,Investigation complete; no suspect identified,2025-11,2025-11
+criminal-damage-arson,6e62b7ac1675e8f85b7e53d24019675671268bf9d64afe21a0a16101e2d9769e,2025-07,51.50281,-0.132696,1677669,On or near Park/open Space,Force,Status update unavailable,2025-11,2025-07
+burglary,ac735783506a038f4157da820486ccb7d2baece48b33bfd9759de03b3468de47,2025-07,51.50797,-0.133162,1677656,On or near Charles Ii Street,Force,Investigation complete; no suspect identified,2025-11,2025-07
+vehicle-crime,ebc3d26762111db3ccc85e7b233aebe00ffc2f4aeed5abff8ef9eed196622abe,2025-09,51.5186,-0.123056,1679176,On or near Parking Area,Force,Investigation complete; no suspect identified,2025-09,2025-09
+theft-from-the-person,250fdb7fca8dd3b859c8de5d8d6cc4d7be0e020325ba72287839620c58424cf1,2025-07,51.513133,-0.137779,1677014,On or near Marshall Street,Force,Investigation complete; no suspect identified,2025-07,2025-07
+shoplifting,aaac78d1b22111b9275b80f7ec7414be9d8e28d6e93ebafb5d1aacd491f06385,2025-09,51.518072,-0.131077,1677895,On or near Morwell Street,Force,Investigation complete; no suspect identified,2025-09,2025-09
+other-theft,d5330934c9cf7a8217d557cdfa83693c1bb667e58865898164be4feba7acc736,2025-11,51.506136,-0.115773,1680093,On or near Parking Area,Force,Under investigation,2025-11,2025-11
+violent-crime,3b7d97dabc12302b2f337b5a030ab23a869fa6dde5ac2647da4bb536daad4125,2025-07,51.51259,-0.112811,1680673,On or near Essex Street,Force,Unable to prosecute suspect,2025-09,2025-07
+theft-from-the-person,1e5245ce5cc53ff8485760a2613e799cdbcf59c32a1b7977843877ddd9679f0e,2025-11,51.511339,-0.128427,1678405,On or near Cranbourn Street,Force,Investigation complete; no suspect identified,2025-11,2025-11
+other-theft,9454bb005a7933bc061bc6e43d8c9a008dcaeec8f8f88cafcb0bbe4c81c3df8b,2025-11,51.51052,-0.137439,1677019,On or near Glasshouse Street,Force,Investigation complete; no suspect identified,2025-11,2025-11
+shoplifting,e174af39757343fecbb5694896833cab4878faf87258dea50d93f5f46fa21a89,2025-09,51.516058,-0.140154,1676584,On or near Market Place,Force,Investigation complete; no suspect identified,2025-11,2025-09
+anti-social-behaviour,,2025-10,51.504824,-0.115222,1680380,On or near Concert Hall Approach,Force,,,2025-10
+theft-from-the-person,95286ab96da5d8c60a774a0135013cdb8c3370fd9b291f78649e06c29e727600,2025-11,51.51176,-0.131163,1678022,On or near Gerrard Street,Force,Investigation complete; no suspect identified,2025-11,2025-11
+public-order,7af5786692efada14055442313745b8767e1d7e5aaeae2ecf2a48f2650dcd8da,2025-07,51.519005,-0.114132,1680342,On or near Further/higher Educational Building,Force,Unable to prosecute suspect,2025-10,2025-07
+bicycle-theft,e621a81143b3c57bfc4a057fd3eeb0b09933e2b72f13046e1fa6d83aa3bd267c,2025-10,51.509947,-0.131367,1677944,On or near Sports/recreation Area,Force,Investigation complete; no suspect identified,2025-10,2025-10
+other-theft,fbb6b6023f5092aff1cf39df65c835c9ea4d5241c7de8f2eaab7248ca2f3e7a4,2025-11,51.515727,-0.136304,1677136,On or near Further/higher Educational Building,Force,Investigation complete; no suspect identified,2025-11,2025-11
+shoplifting,1bea134ac27ea9d9c7805c599c7965907cbbe881de33cba3b1a9773ed1d54469,2025-11,51.519933,-0.133899,1677494,On or near Shopping Area,Force,Investigation complete; no suspect identified,2025-11,2025-11
+theft-from-the-person,42c07374b787f338b24d3ffe4f6f157235788bf60c8ae5a54dc3becea06f937c,2025-09,51.511417,-0.127539,1678551,On or near Theatre/concert Hall,Force,Investigation complete; no suspect identified,2025-10,2025-09
+robbery,8e645fbf8e56c4ddff9d8eeb96bc710debc32e635748858e4779e66a9dbb3145,2025-09,51.495035,-0.121114,1678842,On or near Ferry Terminal,Force,Investigation complete; no suspect identified,2025-09,2025-09
+theft-from-the-person,d2e262a7692f9cc8ef22f0a373caef1f8f1fcf1c4d4727260842cb31af982844,2025-07,51.513911,-0.133539,1677518,On or near Richmond Mews,Force,Investigation complete; no suspect identified,2025-07,2025-07
+criminal-damage-arson,83dc255a2ab2fee1891e322eabf76b1ad7084ff7260cfcc89ed5be4cd7850c51,2025-08,51.516295,-0.129487,1678131,On or near Conference/exhibition Centre,Force,Under investigation,2025-08,2025-08
+anti-social-behaviour,,2025-08,51.509491,-0.125924,1678539,On or near William Iv Street,Force,,,2025-08
+shoplifting,50de2c7d1cdbf934d4da774828f036394805cca19431db42e6903f403a8eae12,2025-10,51.507725,-0.125708,1678750,On or near Corner House Street,Force,Unable to prosecute suspect,2025-10,2025-10
+theft-from-the-person,44823ce19bbe7f53e7ddada48bdf8a3423976cb015a7a68e74385022c4b3cd3b,2025-07,51.519933,-0.133899,1677494,On or near Shopping Area,Force,Investigation complete; no suspect identified,2025-07,2025-07
+theft-from-the-person,28a9d38415c0308026d9b0274825c21082702f84913d4d80e4b9763052c82dd8,2025-08,51.51347,-0.136339,1677129,On or near Broadwick Street,Force,Under investigation,2025-08,2025-08
+other-theft,a9b193c7fde81950b7921fbe1112258d6f2afa2b12c2de6917376e45215094a9,2025-07,51.506136,-0.115773,1680093,On or near Parking Area,Force,Investigation complete; no suspect identified,2025-07,2025-07
+theft-from-the-person,ecc0ca64375d84e02d52e31b1633f5adda847ead3c5ff4410c4b0c3262ac8394,2025-09,51.517937,-0.134456,1677319,On or near Percy Street,Force,Investigation complete; no suspect identified,2025-09,2025-09
+other-theft,6105c8bed2e32231829f2499260feead684dea3e105441a830711cd06241c749,2025-08,51.508351,-0.108355,1681422,On or near Conference/exhibition Centre,Force,Investigation complete; no suspect identified,2025-10,2025-08
+anti-social-behaviour,,2025-08,51.506736,-0.1268,1678642,On or near Craig's Court,Force,,,2025-08
+theft-from-the-person,3e50d3faa85257a31bea08c7ea29daf77f5871b98dff3d0769339cf655f73c80,2025-11,51.513918,-0.146986,1675663,On or near Blenheim Street,Force,Investigation complete; no suspect identified,2025-11,2025-11
+theft-from-the-person,128be0a094444f644013d4dddeffd4744825cd756bb4f067f91c533fec2b3f94,2025-11,51.500978,-0.125524,1678704,On or near Bridge Street,Force,Investigation complete; no suspect identified,2025-11,2025-11
+theft-from-the-person,01249ed0a6e9f86d13af06579b50e8ff719eed72a68b989de952716ea27479e2,2025-08,51.518323,-0.12484,1678925,On or near Gilbert Place,Force,Investigation complete; no suspect identified,2025-09,2025-08
+theft-from-the-person,e982c8cb5c9610cc6b9e7ad6bb742eed51aa113c9b8e15f0fe1e28c220907813,2025-08,51.516178,-0.131904,1677833,On or near Further/higher Educational Building,Force,Investigation complete; no suspect identified,2025-10,2025-08
+theft-from-the-person,b2a228b634ed4bfe3e75e01545ed5cc3282a4fe8a8391a9ccc948b49c9ea2f79,2025-08,51.513498,-0.130169,1678146,On or near Moor Street,Force,Under investigation,2025-08,2025-08
+anti-social-behaviour,,2025-09,51.500396,-0.111082,1680975,On or near Baylis Road,Force,,,2025-09
+anti-social-behaviour,,2025-11,51.510295,-0.132318,1677826,On or near Coventry Street,Force,,,2025-11
+violent-crime,31a0366100ae26f92ee82262b01b3e29f6658f618aa792b19976ac6d0e5b405a,2025-09,51.512419,-0.13752,1677021,On or near Upper James Street,Force,Unable to prosecute suspect,2025-10,2025-09
+other-theft,de4763edad3443d63a39c1ae3bf40234f37339ce5a5291fdce523c541ea8ab81,2025-08,51.513804,-0.130733,1678045,On or near Greek Street,Force,Investigation complete; no suspect identified,2025-08,2025-08
+other-theft,a05e821ceeff2b284accbf8d9f77e6a9ad242cd475d05693d56b7dbac72a9720,2025-08,51.511022,-0.11988,1679585,On or near Strand,Force,Investigation complete; no suspect identified,2025-08,2025-08
+robbery,a511483094539bbf9e8a3cb243e16ef9116f59736d4e3a20aad8facbc15b544f,2025-07,51.514279,-0.131247,1678009,On or near Nightclub,Force,Status update unavailable,2025-11,2025-07
+other-theft,12c8cf8c402eeabf7a789e55a945d4016ad897a00739c834dc6dfac1e24fc0cb,2025-07,51.515297,-0.108909,1490745,On or near West Harding Street,Force,Investigation complete; no suspect identified,2025-07,2025-07
+other-theft,ebf62a565fdfd4a7e52a7c3c0fcb0cd235d24f5419c7537138b07d490a30cf27,2025-07,51.499488,-0.11841,1679222,On or near Hospital,Force,Investigation complete; no suspect identified,2025-07,2025-07
+theft-from-the-person,1e91c7ef0822e60faaa8f136e630570f8ee2c8353857c4eb7f959cdfdcbe588e,2025-09,51.51052,-0.137439,1677019,On or near Glasshouse Street,Force,Investigation complete; no suspect identified,2025-09,2025-09
+bicycle-theft,30d0ca41b4787b05b3a2fbf61a3a79a9481eeae5cc2a09edd8b7924930252873,2025-10,51.521847,-0.130418,1678023,On or near Further/higher Educational Building,Force,Investigation complete; no suspect identified,2025-10,2025-10
+shoplifting,322d452fca7af1e9829c8f6a48a3f1fb276259a2f526e3b9af55784dced5c6a0,2025-07,51.515753,-0.143092,1676083,On or near John Prince's Street,Force,Investigation complete; no suspect identified,2025-07,2025-07
+other-theft,1002a6bdedbc3d3957ed5a26ea41ab6025ecf8faa6acb6134444419f2ffc4570,2025-11,51.512811,-0.133325,1677641,On or near Theatre/concert Hall,Force,Under investigation,2025-11,2025-11
+anti-social-behaviour,,2025-07,51.519153,-0.140863,1676463,On or near Great Titchfield Street,Force,,,2025-07
+theft-from-the-person,72930f7d201a6fb2373b77de46c26761d5dd46873912a04007a1a5ae9909a36e,2025-11,51.511783,-0.129778,1678199,On or near Nightclub,Force,Investigation complete; no suspect identified,2025-11,2025-11
+theft-from-the-person,9fa7afdbeb711d7cf1ea9649dd8e38a2f385c5d99a4710fb14e9296d2ff6c8ac,2025-08,51.513804,-0.130733,1678045,On or near Greek Street,Force,Investigation complete; no suspect identified,2025-08,2025-08
+theft-from-the-person,7d8f5cb3646f99d0e595bb89717b1e27163583cbd1c8ac8965a0ffced206dfb2,2025-10,51.51179,-0.131925,1677815,On or near Dansey Place,Force,Investigation complete; no suspect identified,2025-10,2025-10
+theft-from-the-person,3374b57a17c4d04879a10092f4ceb64b7e20fab356dc562bef45bbf0d4991623,2025-07,51.518897,-0.116904,1680092,On or near Red Lion Street,Force,Investigation complete; no suspect identified,2025-07,2025-07
+theft-from-the-person,11eb7c8487ee91651cc79e241f7cad1e07183c56cfdc7a51ca12aac00f444fc1,2025-10,51.51315,-0.138845,1676870,On or near Carnaby Street,Force,Investigation complete; no suspect identified,2025-10,2025-10
+theft-from-the-person,76cfbd19c33a3d937e7b6aaa52365104d51c3aa34d488a2e1e47d41290f29f30,2025-09,51.514195,-0.145735,1675879,On or near Dering Street,Force,Investigation complete; no suspect identified,2025-09,2025-09
+shoplifting,4345466bc1e3877f3d393e648fbfd2910d1e191dd57c4d566f65f945ce142a80,2025-09,51.518231,-0.112953,1490726,On or near Southampton Buildings,Force,Investigation complete; no suspect identified,2025-09,2025-09
+robbery,741cab6cce6347bd9d6df6b44a73b153b5cff86cfca667f44e161e34ae681665,2025-08,51.500306,-0.129629,1678242,On or near Storey's Gate,Force,Investigation complete; no suspect identified,2025-10,2025-08
+theft-from-the-person,5642e193a99c50dcaecede0b2fab7b001ee4fa8aaef5cdf6ec4aea7b50f332b4,2025-11,51.510468,-0.130769,1678029,On or near Leicester Square,Force,Investigation complete; no suspect identified,2025-11,2025-11
+theft-from-the-person,0ada4d911f920d1022a708651c07e9db93aba459fb3f1e1569fdc0efcc8b3ad3,2025-07,51.496848,-0.142518,1676288,On or near Theatre/concert Hall,Force,Investigation complete; no suspect identified,2025-07,2025-07
+other-theft,44bad5156826a69d39f5ed49eebaae9f55356613932ebd375c5a6c5cdf7a7b63,2025-07,51.520864,-0.12181,1679358,On or near Further/higher Educational Building,Force,Investigation complete; no suspect identified,2025-07,2025-07
+violent-crime,77fdd9034c73b0f0257d2cf44a37d16534583d65d76dcc4d6853fbb48ddead14,2025-11,51.513052,-0.132681,1677758,On or near Bourchier Street,Force,Under investigation,2025-11,2025-11
+burglary,56e3e4ef4039092591cc49ac46d90ad5d67f9ba01499c15f46d6277b6695919d,2025-11,51.511608,-0.134599,1677382,On or near Smith's Court,Force,Investigation complete; no suspect identified,2025-11,2025-11
+other-theft,925b341fc12b7a03fd52a35735b72781feaa06468a3971a23f70802010ca012f,2025-08,51.515753,-0.143092,1676083,On or near John Prince's Street,Force,Investigation complete; no suspect identified,2025-10,2025-08
+other-theft,5633397913bba92f08f346462986859002276408b135b4ef84ac3f7eb816cd36,2025-09,51.506998,-0.113994,1680552,On or near Theatre/concert Hall,Force,Investigation complete; no suspect identified,2025-10,2025-09
+theft-from-the-person,e03258decae3bea0a832d55242e180c11ce6390d8ae68f376f949818185e6940,2025-07,51.50281,-0.132696,1677669,On or near Park/open Space,Force,Investigation complete; no suspect identified,2025-07,2025-07
+other-theft,1c843c63987017b8e4a11b3fb1cdebd155dc62a924b938c0ebe8a8f86b6ac551,2025-11,51.513918,-0.146986,1675663,On or near Blenheim Street,Force,Investigation complete; no suspect identified,2025-11,2025-11
+theft-from-the-person,bfb21222dc419b26ffd4aebc7d60748f5851c63fc3ad796dfcb93ea0fbd4373b,2025-07,51.50845,-0.143266,1676091,On or near Nightclub,Force,Investigation complete; no suspect identified,2025-07,2025-07
+violent-crime,352f959e5892b617a5b64c1c2b9f0fe47130f975b566a3e8a3f9699840f12812,2025-07,51.50401,-0.115515,1680108,On or near Waterloo,Force,Investigation complete; no suspect identified,2025-08,2025-07
+theft-from-the-person,803be3d6acf7e0be5740718ac00d85a4fbebdc0533b6253680fec2ae0bea0e1b,2025-08,51.516058,-0.140154,1676584,On or near Market Place,Force,Investigation complete; no suspect identified,2025-08,2025-08
+violent-crime,7a961694d5a473eca158e8907686db882543e5ea342ca2b01ec58bb6d31e2a1f,2025-11,51.512495,-0.138915,1676635,On or near Nightclub,Force,Under investigation,2025-11,2025-11
+theft-from-the-person,d6e3379221e05cb0d02c0b6b358933030df4978cd3a49fc47e86b7c0e39f4a1f,2025-11,51.508087,-0.124122,1678961,On or near Nightclub,Force,Investigation complete; no suspect identified,2025-11,2025-11
+shoplifting,014a905a2ee182eebe3f1cc43c643661e4617698dd3181bcc5b69c6bdb7499ac,2025-08,51.513708,-0.140004,1676706,On or near Little Marlborough Street,Force,Offender given a caution,2025-09,2025-08
+theft-from-the-person,52385310d80c152a84e9b899a0f3e84f8c5ab2baf68b6f20017ea98549bcde06,2025-11,51.51397,-0.134387,1677442,On or near Wardour Street,Force,Investigation complete; no suspect identified,2025-11,2025-11
+burglary,ada8497d0079bb5717912c6be070e66cf96a5e5a50bf4f222ad296d3e69a2e2f,2025-08,51.517114,-0.119009,1679776,On or near Gate Street,Force,Unable to prosecute suspect,2025-10,2025-08
+violent-crime,346a74b51e197d301ef7d103860aee12f70333f54f04ea6b0660a7be80f9a8fc,2025-08,51.511292,-0.113701,1680611,On or near Temple Place,Force,Further action is not in the public interest,2025-10,2025-08
+theft-from-the-person,883d0b7d416ac95631d947fda5e3e62cf95a6c6eb1bb737edb46bfd9b3227aff,2025-08,51.507911,-0.139635,1676686,On or near Conference/exhibition Centre,Force,Investigation complete; no suspect identified,2025-09,2025-08
+theft-from-the-person,0c2833e49a5f2c1880ac28b1278fe483e9601f0b0216c19424b94e85caf56749,2025-08,51.516058,-0.140154,1676584,On or near Market Place,Force,Investigation complete; no suspect identified,2025-09,2025-08
+theft-from-the-person,2a372e9ee9e3a1492b425f31f73bf3d5b5db9c1d33f27fefcc77c140f58e3951,2025-07,51.516295,-0.129487,1678131,On or near Conference/exhibition Centre,Force,Investigation complete; no suspect identified,2025-09,2025-07
+theft-from-the-person,6448973f2b37ef34c35a5c2e9fde01ee198a7c0a715ef5c3a2b52705257f09b7,2025-07,51.500978,-0.125524,1678704,On or near Bridge Street,Force,Investigation complete; no suspect identified,2025-08,2025-07
+theft-from-the-person,d5613663c0026e29109aba5094b63e2a04131307a55d11d030e43641a427b763,2025-07,51.51315,-0.138845,1676870,On or near Carnaby Street,Force,Investigation complete; no suspect identified,2025-07,2025-07
+violent-crime,e9f8e08cfcd2f4650ebeb16bb21c2403ac9eed68c9996f925d1321594b5f5b93,2025-10,51.51507,-0.138003,1676927,On or near Shopping Area,Force,Unable to prosecute suspect,2025-10,2025-10
+other-theft,77ab7912a0ac83d7c0357ff9065db54be6f5e942467d2a4faed6b7c026a83a6b,2025-11,51.516618,-0.139226,1676725,On or near Shopping Area,Force,Under investigation,2025-11,2025-11
+anti-social-behaviour,,2025-09,51.49644,-0.135867,1677223,On or near Spencer Place,Force,,,2025-09
+theft-from-the-person,85e54fe5917df0e05fab4f2c07d1aedb56eb8a2ea8cb3b8aae677a530ec91d70,2025-08,51.498185,-0.125739,1678741,On or near Abingdon Street,Force,Investigation complete; no suspect identified,2025-08,2025-08
+robbery,3b9693b719e927381610795d82dc0227d8339f155cde94240bb4b3825a5b4d97,2025-09,51.507725,-0.125708,1678750,On or near Corner House Street,Force,Investigation complete; no suspect identified,2025-10,2025-09
+other-theft,96a70ba7128035dbb51f43b3acebc3d6acc6a2d4125b2b4446148d0b0396c428,2025-09,51.5112,-0.133288,1677628,On or near Nightclub,Force,Under investigation,2025-09,2025-09
+theft-from-the-person,e8cd4580d6236b199810296b7a9cbd4bd517072690a351b11fb13f4934493013,2025-09,51.495745,-0.132308,1677734,On or near Parking Area,Force,Investigation complete; no suspect identified,2025-09,2025-09
+theft-from-the-person,0d27e3bd5955ee5ef6adffa6968bc3b1c619e07d7df5640f3a2f85a7a59864f8,2025-11,51.511997,-0.131355,1677958,On or near Macclesfield Street,Force,Investigation complete; no suspect identified,2025-11,2025-11
+anti-social-behaviour,,2025-11,51.519092,-0.12233,1679240,On or near Bloomsbury Square,Force,,,2025-11
+other-theft,74a875a1cbb1c9f5602a979b67add9922cb92b8d9e18e58d77cacbe1cca54005,2025-07,51.517311,-0.145464,1675915,On or near Dean's Mews,Force,Investigation complete; no suspect identified,2025-09,2025-07
+theft-from-the-person,0a562f0f3951877a02e0a07b68751a51e104bc953b4c6b62ad9f6005ab692189,2025-08,51.512117,-0.123121,1679112,On or near Shopping Area,Force,Investigation complete; no suspect identified,2025-08,2025-08
+shoplifting,e0041624eefa6c4c5a2eaf0096fed62a228c33eb15450083420f4c5d6cccc428,2025-11,51.513512,-0.126401,1678639,On or near Theatre/concert Hall,Force,Investigation complete; no suspect identified,2025-11,2025-11
+shoplifting,440204f009527b29b8498308c8015acde3081b4f0aade2a4a4a52971ab3be5cd,2025-11,51.512254,-0.137902,1676895,On or near Beak Street,Force,Investigation complete; no suspect identified,2025-11,2025-11
+other-theft,c7d6f7d6fdc4e906ec276eb7ae7750631f813077b8161e356dffca4f71cec64d,2025-07,51.516751,-0.137401,1677076,On or near Eastcastle Street,Force,Investigation complete; no suspect identified,2025-07,2025-07
+theft-from-the-person,f695d0ec5ee586281e074839fb85f104b769998bc64b435161efb057003c58f4,2025-08,51.516178,-0.131904,1677833,On or near Further/higher Educational Building,Force,Investigation complete; no suspect identified,2025-08,2025-08
+violent-crime,68d9631585c3bf80d2c237a6a362a88e869f08a933f9e6af1d90cc6c38a08115,2025-11,51.50281,-0.132696,1677669,On or near Park/open Space,Force,Under investigation,2025-11,2025-11
+theft-from-the-person,f48a4f4707d47b37f554fb9ebeeb79ca8dce4af51cf25f40b76ecf4b23e41c9a,2025-09,51.511703,-0.128701,1678351,On or near Little Newport Street,Force,Investigation complete; no suspect identified,2025-11,2025-09
+theft-from-the-person,7c5635153d6842972c4ba3485b3a84f6f02b72d01eb3c697fa3731f71468b65c,2025-07,51.507725,-0.125708,1678750,On or near Corner House Street,Force,Investigation complete; no suspect identified,2025-07,2025-07
+public-order,184e15345a484b21cadec6213bba0bee686eb98686d2563628e3301a523e46d4,2025-10,51.510952,-0.134064,1677471,On or near Great Windmill Street,Force,Under investigation,2025-10,2025-10
+shoplifting,8a69fdd2171b66262d2bc3e353a9b4b068ea619e502715e6368dae27b4be64a7,2025-07,51.518231,-0.112953,1490726,On or near Southampton Buildings,Force,Investigation complete; no suspect identified,2025-09,2025-07
+theft-from-the-person,ff887545be4d0f6c8a3da774c7a622006df7cffc28c41cd0ecb0e4d0cc96af85,2025-07,51.51259,-0.112811,1680673,On or near Essex Street,Force,Investigation complete; no suspect identified,2025-07,2025-07
+other-theft,b9ba6dc880aa1c2d336fa0286321fab2a7f206393813cc9195406dd8de0644dc,2025-10,51.512811,-0.133325,1677641,On or near Theatre/concert Hall,Force,Investigation complete; no suspect identified,2025-10,2025-10
+violent-crime,15e16c47744f81320a0ac3cd46c530348e9d9dd3d11b661fbc2877d3f66d2157,2025-08,51.500978,-0.125524,1678704,On or near Bridge Street,Force,Under investigation,2025-08,2025-08
+other-theft,ac8d4f2e8c647dbab166ea1342471b3250ede8674972f3466ff2b4ebdb7058e1,2025-09,51.512495,-0.138915,1676635,On or near Nightclub,Force,Investigation complete; no suspect identified,2025-09,2025-09
+violent-crime,ff70be23c8c27d2c43b5304579f4e00a52d2fbe2d62b9fd660003ba5c279ff53,2025-07,51.509786,-0.124658,1678937,On or near Police Station,Force,Status update unavailable,2025-11,2025-07
+other-theft,7a6743a7ecf8ec57f87cfd94c4991e302a00362d8c60d419717bff6f65777dd9,2025-11,51.500978,-0.125524,1678704,On or near Bridge Street,Force,Investigation complete; no suspect identified,2025-11,2025-11
+violent-crime,ecb74b48b82b5fea5aabe50d4df538f0554d4bd0e6e9a69fbfbe0f6d95ed204b,2025-07,51.496941,-0.130617,1677903,On or near Conference/exhibition Centre,Force,Status update unavailable,2025-11,2025-07
+theft-from-the-person,615899095c2671abdd63eff8e7eb5853a192d0d96efd8752d2380842dd441fb3,2025-08,51.511783,-0.129778,1678199,On or near Nightclub,Force,Investigation complete; no suspect identified,2025-09,2025-08
+violent-crime,ab4d6840223146a28bbecf2e6e55c259f71669df177c5f9c76145c27d823a9c9,2025-11,51.516295,-0.129487,1678131,On or near Conference/exhibition Centre,Force,Under investigation,2025-11,2025-11
+other-theft,92ba9b93276f7edb5ff71438cfd8cc593c13ef58ef723d5a1b2521e46443ccbb,2025-07,51.518903,-0.135296,1677346,On or near Rathbone Street,Force,Investigation complete; no suspect identified,2025-07,2025-07
+theft-from-the-person,cfa279ec6f8d85c36b6e64f5a385c6a2efebae0a050b26aea9fc211943c073b4,2025-11,51.51179,-0.132459,1677744,On or near A401,Force,Under investigation,2025-11,2025-11
+violent-crime,3b98dd3a217289d69adf4ee40f4c5e4a19219903dec67719b43fd944ce31d486,2025-11,51.515753,-0.143092,1676083,On or near John Prince's Street,Force,Under investigation,2025-11,2025-11
+vehicle-crime,f266e86c28960e028e7bab944278420438db587b3ae3f8ed0469df0282d11774,2025-07,51.509097,-0.146936,1675613,On or near Nightclub,Force,Status update unavailable,2025-11,2025-07
+violent-crime,44cf262919f6931d7a4024adc80843a2393ebf96e794418922d9942c85d2639c,2025-09,51.508409,-0.123461,1679097,On or near Buckingham Street,Force,Awaiting court outcome,2025-09,2025-09
+other-theft,44a5b9e8d1f8d9a7e52de2f301abd825bceeb34bf6e7773bc6ed859b8ad15402,2025-11,51.503196,-0.127032,1678183,On or near Downing Street,Force,Investigation complete; no suspect identified,2025-11,2025-11
+other-theft,2460a8e1901dc021f1388045d281abb73c02d66dbaf9c8928ce454228fe885f7,2025-08,51.512802,-0.12377,1679061,On or near James Street,Force,Investigation complete; no suspect identified,2025-11,2025-08
+other-theft,845c7f52455387337b4cbf38be14db1540bccba680b9a9313cce2f2513cb6243,2025-09,51.51179,-0.131925,1677815,On or near Dansey Place,Force,Investigation complete; no suspect identified,2025-09,2025-09
+shoplifting,d1dffbf3695b76531c137040d6d36c10ea06d509dbd969f71c83e6d73cccd0c1,2025-07,51.51401,-0.124528,1678889,On or near Parking Area,Force,Status update unavailable,2025-11,2025-07
+violent-crime,fb2fdd13476ddf332d1fde2671c1d7579d8f23df840d589b165e616b13b0285a,2025-09,51.504925,-0.124886,1678852,On or near Horse Guards Avenue,Force,Under investigation,2025-09,2025-09
+violent-crime,410c5ee1e632fb59f41fc00d35c4407ecd2108498f52ea226ae50103a78bd5d0,2025-10,51.507096,-0.122909,1678963,On or near Embankment Place,Force,Under investigation,2025-10,2025-10
+other-theft,570c7d9b54cdec7102607c00388507394f465ec3e78563f24c32aa764e073fd4,2025-10,51.519162,-0.136308,1677191,On or near Goodge Street,Force,Investigation complete; no suspect identified,2025-10,2025-10
+other-theft,5add476d60daee4daf060910ea677c2f3ce40613f2f206af0b2504619128a26f,2025-10,51.508556,-0.134925,1677396,On or near Babmaes Street,Force,Investigation complete; no suspect identified,2025-10,2025-10
+other-theft,aef82738a8c7432fe371995d2410bd5d6403ab50895deb08e9268654b9833079,2025-08,51.512059,-0.118929,1679743,On or near A301,Force,Investigation complete; no suspect identified,2025-08,2025-08
+criminal-damage-arson,3cae3fe10b93705cfc913ff97a75055c11fc52a955343899a04d3131117cf578,2025-11,51.504099,-0.135122,1677284,On or near The Mall,Force,Investigation complete; no suspect identified,2025-11,2025-11
+violent-crime,7e84e9e82d5323b00f3629ee62ae95703c31d6ceac47ca180ebd96b5d56364ba,2025-07,51.512106,-0.1331,1677680,On or near Theatre/concert Hall,Force,Investigation complete; no suspect identified,2025-11,2025-07
+other-theft,32d0d3ba88e5c426537b395e90e5fce1d37e3bb40c0847d4ca6bef0eae76eeda,2025-10,51.512495,-0.138915,1676635,On or near Nightclub,Force,Under investigation,2025-10,2025-10
+drugs,81d9593999e35cb4054a54c14cab4cabd17c20efa6f24e8d970d7dabf49e122b,2025-11,51.512106,-0.1331,1677680,On or near Theatre/concert Hall,Force,Under investigation,2025-11,2025-11
+theft-from-the-person,72ab91128aeaac0754ea15b8641c44e7520f1d081ee615ad5b1d6fec4df6f6b0,2025-09,51.505464,-0.114844,1680353,On or near Shopping Area,Force,Investigation complete; no suspect identified,2025-09,2025-09
+other-theft,bd11eaca10be53a64901acf3b031b8d2d0015013a22f9a6a9f0c740f82d8dc56,2025-07,51.512117,-0.127574,1678502,On or near Theatre/concert Hall,Force,Investigation complete; no suspect identified,2025-11,2025-07
+other-theft,d858a0784e0e86046f341e5938fc22c3322c15631344e4e698bf666d629a7a36,2025-10,51.515727,-0.136304,1677136,On or near Further/higher Educational Building,Force,Investigation complete; no suspect identified,2025-10,2025-10
+drugs,7dcc52414644d2400771e59c168de6f4b27025f9483bb70273634e9aaa93444a,2025-08,51.510635,-0.145807,1675819,On or near Bruton Place,Force,Under investigation,2025-08,2025-08
+theft-from-the-person,7c8b2aa80963851dd9f0e8d31c21b4107af83c8cb076d1585a437a5568b6bfb6,2025-08,51.516178,-0.131904,1677833,On or near Further/higher Educational Building,Force,Investigation complete; no suspect identified,2025-08,2025-08
+shoplifting,2d79c4d047360834ae38ecc6c03fb589e369fe9d95a191019dee73ca44f58b1f,2025-09,51.513233,-0.141234,1676381,On or near Parking Area,Force,Investigation complete; no suspect identified,2025-09,2025-09
+other-theft,6b72d1b02f4174cadf5b7bdbc43f265d7cc961af184a3f416ae6ece694b5f713,2025-11,51.516166,-0.137324,1677012,On or near Nightclub,Force,Under investigation,2025-11,2025-11
+shoplifting,d5c4eb913736dee9ca2db3f822c67aafd785c7a398b58e55ebd9fcb7c69c7105,2025-11,51.514867,-0.13879,1676714,On or near Further/higher Educational Building,Force,Investigation complete; no suspect identified,2025-11,2025-11
+robbery,bb714f0ec74d1eb3bb2558f77c77ffaeed8aaabdcf2354a8b11cd4502abbe019,2025-09,51.513064,-0.129438,1678198,On or near Shaftesbury Avenue,Force,Investigation complete; no suspect identified,2025-11,2025-09
+violent-crime,c4ba52450f055c293479299827c9195e72144e1a098e2c587fd9137253dfd827,2025-09,51.506148,-0.149851,1675341,On or near Derby Street,Force,Unable to prosecute suspect,2025-09,2025-09
+other-theft,0d70a77d3959716f9ca46c232b52e823f130ada69ae2cccb30e1f6f9b74cb176,2025-09,51.518231,-0.112953,1490726,On or near Southampton Buildings,Force,Investigation complete; no suspect identified,2025-09,2025-09
+other-theft,3468a4e67dbf41f765a4b0df347551b751c9826a646b6319aa70039ebb8e7408,2025-11,51.506632,-0.12764,1678507,On or near Theatre/concert Hall,Force,Investigation complete; no suspect identified,2025-11,2025-11
+other-theft,14272572334431b9fc39a9b497be7437dfe13d9c61fd2a8f15628c036df8e421,2025-07,51.51394,-0.1325,1677796,On or near Nightclub,Force,Investigation complete; no suspect identified,2025-11,2025-07
+criminal-damage-arson,879568a0631a48f834f77c47d6c731044c264543fb67e601745ee973cb2648d7,2025-08,51.514704,-0.130826,1678048,On or near Manette Street,Force,Under investigation,2025-08,2025-08
+anti-social-behaviour,,2025-07,51.510433,-0.140455,1676487,On or near Parking Area,Force,,,2025-07
+vehicle-crime,093aa27845a2cb68c72ad08746d8ac7d3afe337e239e1f42aa51dd6c2859da01,2025-08,51.515684,-0.135874,1677259,On or near Nightclub,Force,Investigation complete; no suspect identified,2025-08,2025-08
+theft-from-the-person,79e977e36460f739733a5ba40619f439f8604c04b674c51043baf8ed769c961d,2025-07,51.49632,-0.138508,1676802,On or near Thirleby Road,Force,Investigation complete; no suspect identified,2025-07,2025-07
+anti-social-behaviour,,2025-09,51.496313,-0.132429,1677735,On or near Chadwick Street,Force,,,2025-09
+drugs,70e0e7da6f1a4157f19dc5489ad6ce080005431c687f0b6b06ccdd6072fdb9f9,2025-11,51.5109,-0.127984,1678414,On or near Theatre/concert Hall,Force,Offender given penalty notice,2025-11,2025-11
+public-order,d45ff379b0f73298abb9896fa8af67b688b30c4099ef32d0b1215cfb5a15192e,2025-11,51.518558,-0.143801,1676082,On or near Theatre/concert Hall,Force,Under investigation,2025-11,2025-11
+bicycle-theft,72799b565c520a5f50fff778cedfb23829da4d233d2bf9152a755b9bc527c67d,2025-07,51.501665,-0.138146,1676782,On or near Park/open Space,Force,Investigation complete; no suspect identified,2025-07,2025-07
+other-theft,3b44a8fe329fffdded487f41c4759f25768586923b20072a3738d6725deb1a04,2025-11,51.514365,-0.143408,1675924,On or near Princes Street,Force,Investigation complete; no suspect identified,2025-11,2025-11
+theft-from-the-person,fb11c15cd23af6ad9483db8d37aaf07805faac548f7deeebe1769b2b758f8c0a,2025-08,51.507394,-0.128042,1678399,On or near Charing Cross,Force,Investigation complete; no suspect identified,2025-08,2025-08
+robbery,09a8308c4b2489a7affadf3fa487db2a8d05d3cbd79a8754459901cb87fbaecd,2025-08,51.514246,-0.131436,1677792,On or near Nightclub,Force,Investigation complete; no suspect identified,2025-09,2025-08
+theft-from-the-person,ab1746ad07060c3a3c74bcfc61d11449edb95ed7ac036d2cfb6bcaf8c484f2c8,2025-09,51.511103,-0.113723,1680581,On or near Temple,Force,Investigation complete; no suspect identified,2025-10,2025-09
+anti-social-behaviour,,2025-11,51.500978,-0.125524,1678704,On or near Bridge Street,Force,,,2025-11
+theft-from-the-person,ffa8b5c4b21544a656f9f065a54f0d98836d9a9d8ad4b47e18a335bd4e3fb9ce,2025-10,51.507576,-0.141776,1676403,On or near Nightclub,Force,Investigation complete; no suspect identified,2025-10,2025-10
+other-theft,94baf1f6cbaaae67600cd86ad8a4d5aed684f83f22f5202881aa765087b074c1,2025-11,51.512059,-0.118929,1679743,On or near A301,Force,Investigation complete; no suspect identified,2025-11,2025-11
+violent-crime,110ef158a242cdb3e17bd674372f17555bcce87d0335dae6c4929ae7f2bc0f98,2025-07,51.5169,-0.132077,1677808,On or near Nightclub,Force,Unable to prosecute suspect,2025-07,2025-07
+bicycle-theft,5644138377a190572dd3cb05c2c4d5453a664361dd69c9903cc7b984cecce1f9,2025-10,51.506238,-0.141317,1676512,On or near Parking Area,Force,Investigation complete; no suspect identified,2025-10,2025-10
+theft-from-the-person,d046ed27d6b9e7812f3da3d4821bf4c1d7b4cdb3e7a9d9ba99db494705c3605a,2025-08,51.512449,-0.115772,1680063,On or near Surrey Street,Force,Investigation complete; no suspect identified,2025-08,2025-08
+bicycle-theft,aec6bb86fe03abea51c5f58942ac31b52ea63a1840b7cf5e9175d92e41f330db,2025-11,51.521847,-0.130418,1678023,On or near Further/higher Educational Building,Force,Investigation complete; no suspect identified,2025-11,2025-11
+possession-of-weapons,99709b83e440948ce7a834c83fea1d40f171c68521760bce80169e76b70aaaa1,2025-07,51.500978,-0.125524,1678704,On or near Bridge Street,Force,Local resolution,2025-07,2025-07
+anti-social-behaviour,,2025-11,51.517311,-0.145464,1675915,On or near Dean's Mews,Force,,,2025-11
+anti-social-behaviour,,2025-09,51.505035,-0.112677,1680614,On or near Further/higher Educational Building,Force,,,2025-09
+anti-social-behaviour,,2025-10,51.508964,-0.122761,1679195,On or near Lower Robert Street,Force,,,2025-10
+public-order,84392b1fe8c67f25c8611b5ad8d36e06201bb80d530faa6d8697b98f122e792d,2025-10,51.499984,-0.110119,1681252,On or near Frazier Street,Force,Under investigation,2025-10,2025-10
+drugs,c44b8fd18330800bd50289a0620592a53b9d742a1530dd0574c19016f0e2ee24,2025-08,51.510468,-0.130769,1678029,On or near Leicester Square,Force,Awaiting court outcome,2025-09,2025-08
+violent-crime,06619d498a765d311d75d535622e22a044c78425a80c290d9a1f8d487f94ff21,2025-11,51.508699,-0.138306,1676887,On or near Albany Courtyard,Force,Under investigation,2025-11,2025-11
+theft-from-the-person,42cd8513b1320bc01261722040e31589e5544490c85e0055698eb2d56e1ec19d,2025-07,51.513601,-0.131534,1677939,On or near Frith Street,Force,Investigation complete; no suspect identified,2025-07,2025-07
+violent-crime,b60cd88afefb85029589f9b8ab523548b3a566537f6c4907478a4c3cde0fa79c,2025-08,51.51277,-0.118367,1679877,On or near Kingsway Tunnel,Force,Investigation complete; no suspect identified,2025-09,2025-08
+shoplifting,242b34fb6a0ebc4480df7d0e3090ab8fca5d98fe074c30930cba462a78ca1f6a,2025-08,51.513288,-0.14753,1675603,On or near South Molton Lane,Force,Investigation complete; no suspect identified,2025-08,2025-08
+criminal-damage-arson,898e249f0c459679c4e5a99ab0ce790b20dec1e220b1961f40ef30ae834389eb,2025-07,51.49632,-0.138508,1676802,On or near Thirleby Road,Force,Investigation complete; no suspect identified,2025-09,2025-07
+anti-social-behaviour,,2025-08,51.516275,-0.126121,1678661,On or near Theatre/concert Hall,Force,,,2025-08
+theft-from-the-person,c4098aeee64ed7f9aba1a2bc420d643272b40e62df0208f6c3a1a1e704e18536,2025-10,51.514445,-0.125259,1678875,On or near Nottingham Court,Force,Under investigation,2025-10,2025-10
+anti-social-behaviour,,2025-10,51.51682,-0.127583,1678501,On or near Dyott Street,Force,,,2025-10
+violent-crime,df9e22f5b09e096a659dbb45a05efaa4e14b7f463b03bedeba93a0eb7247e907,2025-09,51.500211,-0.126492,1678547,On or near A302,Force,Under investigation,2025-09,2025-09
+other-theft,b7571e5d58a63075e2f520e81ab9c81fe1feb8d530dcf208bf47e52f403c8541,2025-08,51.510433,-0.140455,1676487,On or near Parking Area,Force,Under investigation,2025-08,2025-08
+theft-from-the-person,65059d25291ae73e0acd0f62b93589f39ad6f3be053c737203871b9026481be4,2025-11,51.513734,-0.132595,1677787,On or near Dean Street,Force,Investigation complete; no suspect identified,2025-11,2025-11
+vehicle-crime,dd06170a2be747f8debe8cb42c65954c170b46daed7e916ce5b50bbd99fe7025,2025-11,51.512247,-0.13012,1678100,On or near Gerrard Place,Force,Investigation complete; no suspect identified,2025-11,2025-11
+theft-from-the-person,1fe0cc1f682591d4ae98e7b4e163348c2d9b42ea41fb99b267555fa45ff02cfc,2025-11,51.515753,-0.143092,1676083,On or near John Prince's Street,Force,Investigation complete; no suspect identified,2025-11,2025-11
+robbery,265a9b4f596ced68418460161fc61999b852f37693a36fb4927959d2f310113a,2025-08,51.514365,-0.143408,1675924,On or near Princes Street,Force,Investigation complete; no suspect identified,2025-11,2025-08
+theft-from-the-person,72aac0dce768bed4923cd2a6eb9f76b023f981d6dff3a8f26077cc7d4429bc91,2025-08,51.519676,-0.129614,1678168,On or near B506,Force,Investigation complete; no suspect identified,2025-09,2025-08
+theft-from-the-person,9b01ddc904e73b1b4d237ade8abb4013db64247cf62d07dece6e66cfff30faad,2025-11,51.515939,-0.132693,1677739,On or near Soho Street,Force,Under investigation,2025-11,2025-11
+theft-from-the-person,929d127dd9126ec79f7dccbe7a8c27fb5726a5bb31a260e76fae0dd8f53df6e3,2025-11,51.512106,-0.1331,1677680,On or near Theatre/concert Hall,Force,Under investigation,2025-11,2025-11
+theft-from-the-person,273ccb03c622757efe00a754ac5771a86dd48786ef167480c48f457ca8e60d23,2025-07,51.512495,-0.138915,1676635,On or near Nightclub,Force,Investigation complete; no suspect identified,2025-09,2025-07
+other-theft,503234bc610333bb4c5e5b880c71b9b35c24bae732d2ebdc4bc36d02730f5b1e,2025-07,51.514112,-0.13369,1677546,On or near Richmond Buildings,Force,Investigation complete; no suspect identified,2025-10,2025-07
+other-theft,eb0bce0b751d9e20d05ff0fe6525d1503050d22d35d261e6a97afb50215e7817,2025-08,51.514141,-0.132694,1677770,On or near Royalty Mews,Force,Investigation complete; no suspect identified,2025-09,2025-08
+other-theft,47171220922adf9771d7f0a52dd553217653aa0506c31c1c26c91f9fe7a89343,2025-08,51.516058,-0.140154,1676584,On or near Market Place,Force,Investigation complete; no suspect identified,2025-09,2025-08
+shoplifting,b04cfc52e0dadbca1f0b254db4048d3b115ed1891da8bed7495a86eb91a0827e,2025-07,51.501941,-0.112127,1680853,On or near Lower Road,Force,Investigation complete; no suspect identified,2025-10,2025-07
+theft-from-the-person,97e0890fef10bb72acd0007dffde2197939a50ae0b1be6833f34e035aa3b73c4,2025-07,51.499549,-0.141416,1676314,On or near Buckingham Mews,Force,Investigation complete; no suspect identified,2025-08,2025-07
+shoplifting,95a79673e506b84b950ad19ef0a9705966999f330074b5a388ff8f5c05ae238a,2025-07,51.513777,-0.123456,1679100,On or near B402,Force,Investigation complete; no suspect identified,2025-07,2025-07
+anti-social-behaviour,,2025-09,51.514064,-0.11889,1679774,On or near Kean Street,Force,,,2025-09
+theft-from-the-person,2289baf70d22326870851067b44ba3112d8df2b9d7ec2eb2b2d6d6a73379e897,2025-09,51.496979,-0.125688,1678645,On or near A3212,Force,Investigation complete; no suspect identified,2025-11,2025-09
+other-theft,f2f2c3a9f6859c48e5e8a9c3d1140e1c31eee84aac84a4a78c147ad9e2bb3215,2025-07,51.515088,-0.140222,1676649,On or near Hills Place,Force,Investigation complete; no suspect identified,2025-07,2025-07
+theft-from-the-person,604908726e309b6e9cb5d3dc4fb4c704ea0f89e1aa7efc8e464acc824c15983f,2025-08,51.510468,-0.130769,1678029,On or near Leicester Square,Force,Under investigation,2025-08,2025-08
+other-theft,4a68431b7df0f88baa79aed718f3bec89ed9f192576ad5d6c0c8d1f876e0d773,2025-08,51.513498,-0.130169,1678146,On or near Moor Street,Force,Investigation complete; no suspect identified,2025-08,2025-08
+theft-from-the-person,374b2de87997db6783c90cb85dee650dc6b8fd2d9d7d200c1a5b320f14818054,2025-07,51.517436,-0.119976,1679644,On or near Holborn,Force,Investigation complete; no suspect identified,2025-07,2025-07
+violent-crime,8e3518f125088588f93edd2049390c561a89216c0808c93ec30cf8b77bb22f8a,2025-10,51.50401,-0.115515,1680108,On or near Waterloo,Force,Investigation complete; no suspect identified,2025-11,2025-10
+anti-social-behaviour,,2025-11,51.515942,-0.112096,1680726,On or near Nightclub,Force,,,2025-11
+theft-from-the-person,d8b0ee4068799d3075103f471af3a89fb5d164425a95fbfac447e86b56e10cbc,2025-11,51.5112,-0.133288,1677628,On or near Nightclub,Force,Investigation complete; no suspect identified,2025-11,2025-11
+anti-social-behaviour,,2025-10,51.501162,-0.116252,1680084,On or near Addington Street,Force,,,2025-10
+theft-from-the-person,220c00876111adaf4aec2474732e6d5b97493cd8fe72e0a26d2f5553095c7054,2025-11,51.511583,-0.133287,1677675,On or near Theatre/concert Hall,Force,Investigation complete; no suspect identified,2025-11,2025-11
+violent-crime,be085c66ca020193aec04ed1083b87bbbb2139e2a86c69a11216d9b23c9c8777,2025-10,51.514361,-0.136908,1677094,On or near Poland Street,Force,Investigation complete; no suspect identified,2025-11,2025-10
+anti-social-behaviour,,2025-11,51.517476,-0.136579,1677079,On or near Supermarket,Force,,,2025-11
+theft-from-the-person,03bb4ca7564675acaa97faf895a4482e960cfa3294c2cbe46f4943266b109e16,2025-11,51.510942,-0.131196,1677925,On or near Leicester Street,Force,Investigation complete; no suspect identified,2025-11,2025-11
+theft-from-the-person,ade0d8d8af2e25bc77c3f4eb836eca77a140538f94e423943c9065730194b5da,2025-10,51.513361,-0.12833,1678384,On or near Theatre/concert Hall,Force,Investigation complete; no suspect identified,2025-10,2025-10
+theft-from-the-person,cd4c88a97aadac81c5566cb304fe5f9c41da48e473e7f277363bf35c52c8f694,2025-08,51.513498,-0.130169,1678146,On or near Moor Street,Force,Under investigation,2025-08,2025-08
+other-theft,cfc3277e8e449c9c44b76a4d5172f5c6d78894c1d03c7287d64bcbab54f26b9c,2025-09,51.506136,-0.115773,1680093,On or near Parking Area,Force,Investigation complete; no suspect identified,2025-10,2025-09
+theft-from-the-person,290b87bde4f5f014d6cab6bb4655922977d2fb06bdd0c15c28d6458039153986,2025-11,51.51278,-0.134234,1677484,On or near Peter Street,Force,Under investigation,2025-11,2025-11
+public-order,026bfc2807939df12cb695548101d0f1959f57926b1c73d5d9d2bdf5f67fb754,2025-10,51.503196,-0.127032,1678183,On or near Downing Street,Force,Under investigation,2025-10,2025-10
+other-theft,286b127d483107075165d5fb7807bfd9867f8d625849596593356713d835dede,2025-11,51.496252,-0.14047,1676510,On or near Ashley Place,Force,Under investigation,2025-11,2025-11
+burglary,362a25751d4cf975984517c37b266ac8fd7699284adb2109152ae0a405c49f7e,2025-11,51.505432,-0.10668,1681498,On or near Hatfields,Force,Under investigation,2025-11,2025-11
+other-theft,15677c5586f95a43818d1b12a6ccbd5939352836223863502b66cf5ba04d8008,2025-10,51.511623,-0.125951,1678738,On or near Rose Street,Force,Under investigation,2025-10,2025-10
+theft-from-the-person,1171bdc43df685a82477546fc068afb7ca514ca546b9cdc9db7172d063d16dc5,2025-08,51.515753,-0.143092,1676083,On or near John Prince's Street,Force,Investigation complete; no suspect identified,2025-11,2025-08
+theft-from-the-person,e90f62d47d61f92a3f87cb094ada56e03025d0b0055627461092c4ad3e024608,2025-11,51.510942,-0.131196,1677925,On or near Leicester Street,Force,Investigation complete; no suspect identified,2025-11,2025-11
+public-order,9c5fbe56f88befec71270f942075de3c7002e5429697b74f06de97121faf61b1,2025-11,51.5169,-0.132077,1677808,On or near Nightclub,Force,Unable to prosecute suspect,2025-11,2025-11
+other-theft,b447d8c0064cf2babec3e54abc4129c71270afcdd0d5fc135fa5604fea61d6b0,2025-09,51.51968,-0.125347,1678626,On or near Montague Street,Force,Investigation complete; no suspect identified,2025-09,2025-09
+burglary,40195faa45557ae98f0a4c9467dd51fbbdecffb1dded1c7dbb77b48c5cc779cc,2025-09,51.51968,-0.125347,1678626,On or near Montague Street,Force,Investigation complete; no suspect identified,2025-09,2025-09
+violent-crime,0a3e369b4f140328874f7d0355d7a3099c60013253982ba3994f25da69d81ba0,2025-10,51.51179,-0.132459,1677744,On or near A401,Force,Under investigation,2025-10,2025-10
+other-theft,bd94f0664f217c9c37ee87ae0b6531cd52b24d2c2b5d765504f8cf6025b19906,2025-07,51.515087,-0.136201,1677233,On or near Noel Street,Force,Investigation complete; no suspect identified,2025-07,2025-07
+anti-social-behaviour,,2025-08,51.495129,-0.13824,1676936,On or near Francis Street,Force,,,2025-08
+other-theft,f7e9b4d60da65000e06da4b864d6a730040615fcf93b24bb54183b9f4e4638d9,2025-10,51.500358,-0.130635,1678102,On or near Bus/coach Station,Force,Investigation complete; no suspect identified,2025-10,2025-10
+theft-from-the-person,3d25b12db93de54001bf67e90c58e636661c187f92f466298d13105c80c82c69,2025-08,51.502803,-0.118778,1679840,On or near Theme/adventure Park,Force,Investigation complete; no suspect identified,2025-08,2025-08
+anti-social-behaviour,,2025-10,51.50028,-0.116091,1680169,On or near Further/higher Educational Building,Force,,,2025-10
+other-theft,fee8e334975c216fcb0679a5fa8700e30c40d7ce0abdb3df4293d49cadf20102,2025-10,51.510468,-0.130769,1678029,On or near Leicester Square,Force,Under investigation,2025-10,2025-10
+other-theft,719db8fc370a53ddf4554d4ca76bc88c192d9caacb3dc9b2fff5c9b66a65d13c,2025-08,51.516488,-0.145743,1675748,On or near Cavendish Square,Force,Investigation complete; no suspect identified,2025-08,2025-08
+violent-crime,1ab05cc26be19df0a225d85c6b776b17f9e40fb1e0198caa6bcb9db0f074a2a6,2025-10,51.51084,-0.128984,1678254,On or near Nightclub,Force,Unable to prosecute suspect,2025-11,2025-10
+burglary,f5120a16599a474771c5d7dc6852675de676e3d07d8957c2d1df14c427c62575,2025-10,51.511054,-0.1354,1677302,On or near Theatre/concert Hall,Force,Under investigation,2025-10,2025-10
+other-theft,23b235adca9848d3333d95ec162ee87bdb644e6087a07f717fb09629347f9676,2025-09,51.516341,-0.120151,1679597,On or near Nightclub,Force,Under investigation,2025-09,2025-09
+theft-from-the-person,f07286442925b44d14b27fd21bc2fe9a3563382b8b7d8118057bfa2d67ab5bdf,2025-07,51.518043,-0.122651,1679235,On or near Further/higher Educational Building,Force,Investigation complete; no suspect identified,2025-07,2025-07
+theft-from-the-person,3e0764b8dfa3173de1f4734e308d6d126eef18647788747c5bc1a17767a42f4d,2025-10,51.506136,-0.115773,1680093,On or near Parking Area,Force,Investigation complete; no suspect identified,2025-10,2025-10
+theft-from-the-person,111a6c8801fd0772467e315da490193491636e9d3a2269a4b2e8e4a38b3c98dc,2025-10,51.516178,-0.131904,1677833,On or near Further/higher Educational Building,Force,Investigation complete; no suspect identified,2025-11,2025-10
+violent-crime,170588a7a32d28a154fe0cb36d5191f3a7cf1b9b645784aee5b8fc18b304f539,2025-10,51.513848,-0.129593,1678270,On or near Old Compton Street,Force,Under investigation,2025-10,2025-10
+theft-from-the-person,a469b12bf36e7f32fc35a748545307f5f32425ef4d17f0240c77779a79049a50,2025-10,51.507766,-0.141284,1676493,On or near Nightclub,Force,Investigation complete; no suspect identified,2025-10,2025-10
+theft-from-the-person,b249003e5eefa6771d2b0a1827e6a66b717e323be90d5e2869c22bc891b5b9ed,2025-07,51.515684,-0.135874,1677259,On or near Nightclub,Force,Status update unavailable,2025-11,2025-07
+shoplifting,5c407830e712acecee7132a12fe849e6c59ec982da0b78827b0bfe08b4b239af,2025-08,51.519933,-0.133899,1677494,On or near Shopping Area,Force,Investigation complete; no suspect identified,2025-08,2025-08
+theft-from-the-person,a6eb28acf5982d0665622589011400146eb6c7d65007850d739054aa88fa5738,2025-07,51.499549,-0.141416,1676314,On or near Buckingham Mews,Force,Investigation complete; no suspect identified,2025-07,2025-07
+violent-crime,4dce6e9c6c937072fc81b4f294f51880a22ae5a495f3fc355a642a03c3062241,2025-09,51.504479,-0.149487,1675130,On or near Grantham Place,Force,Unable to prosecute suspect,2025-09,2025-09
+other-theft,99f555bcd574cf71ad29a85425bc77aea7c5715cd11b6f7f80011c2f7f959493,2025-10,51.516927,-0.137711,1676974,On or near Marylebone Passage,Force,Investigation complete; no suspect identified,2025-11,2025-10
+other-theft,bd42aba40dff163a463bf59b720251c99e5f23eb2ac06eae79ac59f1875b4efc,2025-11,51.508087,-0.124122,1678961,On or near Nightclub,Force,Under investigation,2025-11,2025-11
+other-theft,060e331ad098e7cc553bd931606368c0dec7e8440e086b48096a0a4e1f358e7f,2025-07,51.51507,-0.138003,1676927,On or near Shopping Area,Force,Investigation complete; no suspect identified,2025-07,2025-07
+theft-from-the-person,925b2fe6999c4ac6ed017e91a01ba70d0887ea067caadf8133f4cffb9d94ac02,2025-10,51.510295,-0.132318,1677826,On or near Coventry Street,Force,Investigation complete; no suspect identified,2025-10,2025-10
+theft-from-the-person,22f05e1a53604a00cf24c41c40fe269b2c322804a69edb822f1064fe5d23b654,2025-09,51.511502,-0.134157,1677466,On or near Archer Street,Force,Under investigation,2025-09,2025-09
+theft-from-the-person,80c09c7924c22905a3c1fa11e8f92df392c86e106cc3d3e3e565c0ae2460d6a1,2025-09,51.501665,-0.138146,1676782,On or near Park/open Space,Force,Investigation complete; no suspect identified,2025-09,2025-09
+other-theft,f1e9bd85ac7ff5b937751af38056a882abfd4c77634b0a09ea58c9e05ab8874d,2025-09,51.507725,-0.125708,1678750,On or near Corner House Street,Force,Investigation complete; no suspect identified,2025-09,2025-09
+anti-social-behaviour,,2025-09,51.519792,-0.118337,1679812,On or near Theatre/concert Hall,Force,,,2025-09
+theft-from-the-person,e1714438be34210366196a2500e317acd6298e31e66d13fbb6f05f9cecf23133,2025-10,51.51179,-0.132459,1677744,On or near A401,Force,Investigation complete; no suspect identified,2025-10,2025-10
+theft-from-the-person,302a9e0f6e4b7e5f9e3863b056b29d2114bf1fcd422fe66b77aa881c2449aae5,2025-10,51.516178,-0.131904,1677833,On or near Further/higher Educational Building,Force,Investigation complete; no suspect identified,2025-10,2025-10
+theft-from-the-person,63c6d0704fa77861b8df999b1b59286b0c5ce6ee34b33b2f4014c710212f6ae0,2025-10,51.499302,-0.13379,1677299,On or near St James's Park,Force,Investigation complete; no suspect identified,2025-11,2025-10
+anti-social-behaviour,,2025-09,51.513753,-0.125331,1678851,On or near Shelton Street,Force,,,2025-09
+other-theft,62f25426f23ebbf4abf99a0a82261bab268014c03651dea092595654023df334,2025-08,51.507096,-0.122909,1678963,On or near Embankment Place,Force,Investigation complete; no suspect identified,2025-10,2025-08
+robbery,8b5068dee7ea6fabb518314628cd98e3b319ee50f3b8525fb71708b078d0ea96,2025-08,51.514279,-0.131247,1678009,On or near Nightclub,Force,Under investigation,2025-08,2025-08
+anti-social-behaviour,,2025-08,51.506138,-0.124836,1678957,On or near Whitehall Place,Force,,,2025-08
+theft-from-the-person,a59b9c475f2d24091856ba9d030716942e1d5639cf420574e7435100bc5c86d2,2025-08,51.520844,-0.12504,1678802,On or near Bedford Place,Force,Investigation complete; no suspect identified,2025-08,2025-08
+robbery,cda1635f6982198a5def099849185b3f6b08f9e3033a32c716bc432c70eeb299,2025-09,51.51703,-0.123827,1678952,On or near Dunn's Passage,Force,Investigation complete; no suspect identified,2025-09,2025-09
+violent-crime,4d818c3b46c6eaadb24b9ac250f1e782adce62d012b38db1fb9b0b390f57b146,2025-10,51.510942,-0.131196,1677925,On or near Leicester Street,Force,Under investigation,2025-10,2025-10
+robbery,87d44ce16f9b075b762a1846f5a6d16e6770a01b89cf3488493d7dec1b8a145f,2025-11,51.515753,-0.143092,1676083,On or near John Prince's Street,Force,Under investigation,2025-11,2025-11
+anti-social-behaviour,,2025-07,51.51546,-0.119611,1679674,On or near Wild Court,Force,,,2025-07
+theft-from-the-person,2185e5a193c9cfa489cfd2589fa8d45b1de0652dac3c4c65385a58eda9a7aaf8,2025-10,51.507096,-0.122909,1678963,On or near Embankment Place,Force,Under investigation,2025-10,2025-10
+violent-crime,34d3a67728c932b9f7cb5cf340e1e84dbf8b097f1653f3036bc43772020b2c34,2025-10,51.499488,-0.11841,1679222,On or near Hospital,Force,Under investigation,2025-10,2025-10
+other-theft,a92fc80bb936edc917edd929e55c8a9728b73dfea0bdd9ec50bb146b01fbef5c,2025-07,51.507938,-0.128898,1678191,On or near Trafalgar Square,Force,Formal action is not in the public interest,2025-07,2025-07
+theft-from-the-person,a67842103eb4e8a74aaa86f9c479e9b6c3534b33c4a5c33ba61e58aa5c65cc42,2025-08,51.501665,-0.138146,1676782,On or near Park/open Space,Force,Investigation complete; no suspect identified,2025-08,2025-08
+other-theft,dd9d424c7e89f4ecc8a15ef8180a4a58fcac9911bf9567af760d1ea0aaeb25d9,2025-09,51.504824,-0.115222,1680380,On or near Concert Hall Approach,Force,Investigation complete; no suspect identified,2025-11,2025-09
+other-theft,3d6195da10ee7d3683d0ebab100abfedd8e90209fe33b18a45a6c04e9d73472a,2025-07,51.510729,-0.135283,1677342,On or near Denman Street,Force,Investigation complete; no suspect identified,2025-07,2025-07
+violent-crime,1decebe524892f44d25e5991ab965df1458ca011aa46622a41ee04bd316bd45b,2025-07,51.51259,-0.112811,1680673,On or near Essex Street,Force,Unable to prosecute suspect,2025-11,2025-07
+violent-crime,cd7438b0a9c3d9bf8042ca419a292d7af6954b42593935398b8ebd5582f04df5,2025-11,51.5169,-0.132077,1677808,On or near Nightclub,Force,Under investigation,2025-11,2025-11
+theft-from-the-person,35026ebe0864a2bc84a7430249e7f837fb77cdf83a5c950cb178dd1febd55f5d,2025-08,51.512013,-0.133502,1677575,On or near Winnett Street,Force,Investigation complete; no suspect identified,2025-08,2025-08
+anti-social-behaviour,,2025-09,51.507159,-0.105571,1682020,On or near Rennie Street,Force,,,2025-09
+theft-from-the-person,f527d5e91fe982e65adfe39751998b0c22994329d5d9b43fe10dda93acf3948a,2025-11,51.509158,-0.13493,1677370,On or near Theatre/concert Hall,Force,Under investigation,2025-11,2025-11
+theft-from-the-person,06da590117238818fac4e8ec82e49cdc04f21f3a5215e418a8cd7d2985efca19,2025-09,51.510468,-0.130769,1678029,On or near Leicester Square,Force,Investigation complete; no suspect identified,2025-10,2025-09
+violent-crime,b39aefd00aece188a91a9fbfa454db7b5860f84d41db7795ac8ab90530bc835d,2025-11,51.515189,-0.129653,1678192,On or near Denmark Street,Force,Under investigation,2025-11,2025-11
+shoplifting,fa96e556afa9107e30b1411c59690ba48754a446f92c58b559d05f165611964f,2025-10,51.503927,-0.10925,1681416,On or near London Waterloo East,Force,Under investigation,2025-10,2025-10
+other-theft,8d438584f6ce6b994504fb4a4da78830d044c40f94ae3a3523e0ccf1ee38b27c,2025-11,51.513114,-0.138803,1676865,On or near Ganton Street,Force,Investigation complete; no suspect identified,2025-11,2025-11
+other-theft,9510e4b11bd1e26bda111e2f0c4f1494313ed7c3f56a7de7efcc94d22576d285,2025-09,51.517742,-0.125614,1678770,On or near Little Russell Street,Force,Investigation complete; no suspect identified,2025-09,2025-09
+public-order,3d1bbcf769baf1752aab6f6db6b66aea2d907a3c87ccfff6c0cbf1ed599f66f4,2025-09,51.509786,-0.124658,1678937,On or near Police Station,Force,Under investigation,2025-09,2025-09
+drugs,4b349f81791e763e6705e1f007d825c048aa10a26461b0c5c3aeb6992a5280bd,2025-10,51.506327,-0.146357,1675760,On or near Shepherd Market,Force,Investigation complete; no suspect identified,2025-11,2025-10
+violent-crime,34fd2359607561c76f2543516689d249139593b854efe98308c8734a8951876b,2025-08,51.512117,-0.127574,1678502,On or near Theatre/concert Hall,Force,Investigation complete; no suspect identified,2025-10,2025-08
+other-theft,8a60abc4087c5adfc88fa2896555e6e2f2a398902796dfdf6896c4dd52b578e8,2025-11,51.499042,-0.11193,1680867,On or near Lambeth North,Force,Investigation complete; no suspect identified,2025-11,2025-11
+shoplifting,97fb07e93ded805fd0fb18c868bf9428377c53990b9344a05aab667636edae8c,2025-08,51.517436,-0.119976,1679644,On or near Holborn,Force,Investigation complete; no suspect identified,2025-08,2025-08
+shoplifting,9f550c785694a735b1be3601eedd1bc3fce78c453aef78363ac3b3d20b3fad1f,2025-10,51.514704,-0.130826,1678048,On or near Manette Street,Force,Unable to prosecute suspect,2025-10,2025-10
+violent-crime,f26f2c1455c2bb46bd3a41f828f59e07cb7f235bb507c7b53b2ee7ed4dab4c4e,2025-07,51.514209,-0.129665,1678096,On or near Phoenix Street,Force,Investigation complete; no suspect identified,2025-10,2025-07
+vehicle-crime,229ebd0d9761652cfebb3d3e3ce4079a955619022b08b0e3299277044dcbbef5,2025-08,51.514246,-0.131436,1677792,On or near Nightclub,Force,Investigation complete; no suspect identified,2025-08,2025-08
+theft-from-the-person,abc60954c09fedb85758649c9f19f3eea8615dbd377e50d1aebdfea4ce5cb022,2025-11,51.515753,-0.143092,1676083,On or near John Prince's Street,Force,Under investigation,2025-11,2025-11
+other-theft,8bdd278d2f98ce6e08422fa94331f762204c18d462f5098ab42115c8afec39c3,2025-11,51.513064,-0.129438,1678198,On or near Shaftesbury Avenue,Force,Under investigation,2025-11,2025-11
+theft-from-the-person,695080705ce474f293c4dd8728e248e4fc979481c94af8c1b36c2cb78b0379be,2025-07,51.512117,-0.123121,1679112,On or near Shopping Area,Force,Status update unavailable,2025-11,2025-07
+theft-from-the-person,1b59627ca4105ec8d7c04b0ce97bb54e48bb98a44a8c76b3befc9a93db18e9ea,2025-10,51.499042,-0.11193,1680867,On or near Lambeth North,Force,Investigation complete; no suspect identified,2025-10,2025-10
+theft-from-the-person,8b7a7a303d0c9a1f353673f10e15e5496281bfeb5124500b6aba0baca78a27ee,2025-07,51.507576,-0.141776,1676403,On or near Nightclub,Force,Investigation complete; no suspect identified,2025-08,2025-07
+theft-from-the-person,ab16635c153cce3bd81cc6b5b8f7c8f94a3511a45a07eb6ab43f6271c9a2b429,2025-07,51.520963,-0.13253,1677791,On or near Chenies Street,Force,Status update unavailable,2025-11,2025-07
+theft-from-the-person,fb47cff1f178e521b775255ae95ef5347827edd87035d8a25dc0d5ad8703b936,2025-09,51.516178,-0.131904,1677833,On or near Further/higher Educational Building,Force,Investigation complete; no suspect identified,2025-09,2025-09
+violent-crime,971bf9158ceac9e92cc500726e29f5da398b6014fcf3aed4ef2d2e303b51ae55,2025-10,51.516618,-0.139226,1676725,On or near Shopping Area,Force,Under investigation,2025-10,2025-10
+other-theft,4c9f703a1ebeb8bc8015432c849b833356c96ff7b729ef0d5f7de7cb604b74ad,2025-08,51.522284,-0.125153,1678831,On or near Russell Square,Force,Under investigation,2025-08,2025-08
+shoplifting,3f11f701bd894246be635195775f172999a8c90ec904784edcd5c22c2c0cc94f,2025-07,51.5136,-0.148512,1675493,On or near Shopping Area,Force,Awaiting court outcome,2025-08,2025-07
+theft-from-the-person,8aed679abfe483c13036d1e89c8e4f916dfc365bc0cfca96c1d6e91dabb040fe,2025-09,51.513341,-0.132756,1677704,On or near Meard Street,Force,Under investigation,2025-09,2025-09
+anti-social-behaviour,,2025-07,51.511111,-0.12371,1679082,On or near Henrietta Street,Force,,,2025-07
+theft-from-the-person,773c82431a36e7ff766c4bdbb6c3204a010a91352f05f1b2efbf5cf18ef9b1c5,2025-08,51.512513,-0.133841,1677559,On or near Nightclub,Force,Investigation complete; no suspect identified,2025-08,2025-08
+theft-from-the-person,a99d72e6a033ef6e9e85e8b57e08450b4b3a829e8dae95dcd6ba3f272cc6be2f,2025-10,51.516295,-0.129487,1678131,On or near Conference/exhibition Centre,Force,Action to be taken by another organisation,2025-10,2025-10
+drugs,8108ec87402c3de2dceef57aed381f4db472be5028226088ec5c3442de2fc83d,2025-09,51.513406,-0.131715,1677781,On or near Nightclub,Force,Awaiting court outcome,2025-09,2025-09
+theft-from-the-person,b084cc20d3539b3132e19c53f755869ca18d225a6617dbdcda7175e95e0ac496,2025-08,51.50845,-0.143266,1676091,On or near Nightclub,Force,Investigation complete; no suspect identified,2025-08,2025-08
+drugs,0caaaf6c5a1e721d725cf154f6add75cd033f9cc274f18f7c3e6acfbe989e7fa,2025-08,51.52106,-0.122797,1679230,On or near Cosmo Place,Force,Local resolution,2025-08,2025-08
+criminal-damage-arson,2e6210440ccd4f495c8f64677571fd75b051e802f41a2dd7510837999a90bb6e,2025-10,51.516674,-0.132547,1677780,On or near Hanway Place,Force,Under investigation,2025-10,2025-10
+shoplifting,518802a701ef2deceaff86ec81429aeb2f999c2831055eeb0c6d5113f4cc6730,2025-07,51.506536,-0.136824,1677132,On or near Cleveland Place,Force,Status update unavailable,2025-11,2025-07
+violent-crime,917c196e19f519cc4b1a25510d998b4ff78481e42ca1ce0fe2ac79fb75a8d139,2025-10,51.509947,-0.131367,1677944,On or near Sports/recreation Area,Force,Under investigation,2025-10,2025-10
+other-theft,b1627a24529651556080ee0758018157769914ad31808a7b34f9d806a6a8c7bc,2025-11,51.506632,-0.12764,1678507,On or near Theatre/concert Hall,Force,Under investigation,2025-11,2025-11
+violent-crime,8b6459a2c46e7fc557e8eeb30479f4127338175390c40846992ebd6d122fca58,2025-08,51.514492,-0.131037,1677987,On or near Nightclub,Force,Under investigation,2025-08,2025-08
+shoplifting,ac1b3bc179b94d75fd8dff575c245640bdb37b13a1f9ab48b686777ee5fc8756,2025-07,51.509962,-0.137952,1676943,On or near Nightclub,Force,Status update unavailable,2025-11,2025-07
+theft-from-the-person,77840044f5021f93e7e62a44641ac1b9d49ca79d595c38e08d0c9bc59cb3bc90,2025-08,51.511608,-0.134599,1677382,On or near Smith's Court,Force,Investigation complete; no suspect identified,2025-08,2025-08
+theft-from-the-person,98263e8cb82c1fecf39c687283da963505a8de5e9f5a63a44e2656120718e410,2025-07,51.509158,-0.13493,1677370,On or near Theatre/concert Hall,Force,Investigation complete; no suspect identified,2025-07,2025-07
+theft-from-the-person,1efdabc6308d7ee495f5487fe076952dc13d6de6c7e5ed24b653d9861368c2b2,2025-08,51.511301,-0.115963,1680089,On or near Conference/exhibition Centre,Force,Investigation complete; no suspect identified,2025-08,2025-08
+theft-from-the-person,88cfd58bc71825dce09980d5aa2436ec563617b8d3e632787dbf9087dc3eb145,2025-09,51.507415,-0.105835,1681921,On or near Supermarket,Force,Under investigation,2025-09,2025-09
+theft-from-the-person,4d47b0a96009895a944c398ef35ebfdbef16aee15e1454cbcae2624493ee6435,2025-11,51.514684,-0.140844,1676465,On or near Argyll Street,Force,Under investigation,2025-11,2025-11
+violent-crime,011ace33839ad08d0c94771a067beeb4f233dce0cb9438c50b225a264646cc85,2025-09,51.513114,-0.138803,1676865,On or near Ganton Street,Force,Investigation complete; no suspect identified,2025-09,2025-09
+public-order,3ad267c6f0b940d44f774643777baeef961ab79c8b6549194b37d347d546e50d,2025-09,51.51179,-0.131925,1677815,On or near Dansey Place,Force,Investigation complete; no suspect identified,2025-11,2025-09
+shoplifting,4b654f9ca7cf12a2824a6da13b67e7ae82f2021e83fb15342914a5160f104454,2025-08,51.496508,-0.13961,1676664,On or near Ambrosden Avenue,Force,Investigation complete; no suspect identified,2025-08,2025-08
+violent-crime,bb42d58d4f46d1db59f3de3f2eb49612618fbad26803c5851cc4d832418f3abe,2025-11,51.520371,-0.130363,1678050,On or near Keppel Street,Force,Investigation complete; no suspect identified,2025-11,2025-11
+anti-social-behaviour,,2025-08,51.499071,-0.117649,1679949,On or near Hospital,Force,,,2025-08
+theft-from-the-person,d5f22813cb7777474822cebdd374e48b59671ae84c48ff3c46ac851715061875,2025-09,51.51179,-0.131925,1677815,On or near Dansey Place,Force,Investigation complete; no suspect identified,2025-09,2025-09
+theft-from-the-person,75427ef522634e0fcc45a5ad7b9c543c65f1699500648de669001d07d8604581,2025-10,51.511339,-0.128427,1678405,On or near Cranbourn Street,Force,Investigation complete; no suspect identified,2025-11,2025-10
+theft-from-the-person,17731cef96f9ee61b9251588dc536c660aebe138c129350884ad959fb87c67ab,2025-10,51.515753,-0.143092,1676083,On or near John Prince's Street,Force,Investigation complete; no suspect identified,2025-10,2025-10
+theft-from-the-person,ca0411c3e3ea4daffb1ac62dde21c4764983a0950c69b948ceb7eb253c991515,2025-10,51.511997,-0.131355,1677958,On or near Macclesfield Street,Force,Under investigation,2025-10,2025-10
+anti-social-behaviour,,2025-10,51.509491,-0.125924,1678539,On or near William Iv Street,Force,,,2025-10
+violent-crime,d62581c2d63b20c805db47c6caf592dce8d0d9d9685e9a0bef7da3c42b7e76fc,2025-07,51.508409,-0.123461,1679097,On or near Buckingham Street,Force,Unable to prosecute suspect,2025-07,2025-07
+other-theft,1c0026516410ae9ad4530841c136f9a5a9db4da0684abb6677cab97a58648ca0,2025-11,51.513777,-0.123456,1679100,On or near B402,Force,Investigation complete; no suspect identified,2025-11,2025-11
+criminal-damage-arson,91e442696d0b5c25ee4968642296b35a7df287f237b854482ec740518097ba6c,2025-10,51.5186,-0.123056,1679176,On or near Parking Area,Force,Investigation complete; no suspect identified,2025-10,2025-10
+theft-from-the-person,51f6d6afa46f28141a3955895ea90b1cf66e53f51f6fdb7675e221c097e4ab4c,2025-10,51.515087,-0.136201,1677233,On or near Noel Street,Force,Investigation complete; no suspect identified,2025-10,2025-10
+violent-crime,a447e0fa21dbf15d27d5540f0ffa72570e2d1861d1e383c98c5c98e7b91ac162,2025-08,51.51507,-0.138003,1676927,On or near Shopping Area,Force,Investigation complete; no suspect identified,2025-09,2025-08
+anti-social-behaviour,,2025-09,51.517742,-0.125614,1678770,On or near Little Russell Street,Force,,,2025-09
+other-theft,99664c7647749e2749a108ee5450f40b2cf56c073bee5ced0f240f57f672154f,2025-08,51.513361,-0.12833,1678384,On or near Theatre/concert Hall,Force,Investigation complete; no suspect identified,2025-11,2025-08
+theft-from-the-person,9d969bbb7ce9bcec00fc77cfb0df8d52b0f5e6883208a2c059b275160462be77,2025-11,51.516058,-0.140154,1676584,On or near Market Place,Force,Under investigation,2025-11,2025-11
+theft-from-the-person,c7cf914054df840e94c16b4a7a5570ec7fc8a48935c6d8d80aaa448cb4adf3e7,2025-10,51.5123,-0.128388,1678389,On or near Theatre/concert Hall,Force,Investigation complete; no suspect identified,2025-10,2025-10
+theft-from-the-person,8a7cc5e4c65607cac7fb9c79ca42d6b5ec01b343a6c47f5c9c7f53731e2aad4c,2025-08,51.509158,-0.13493,1677370,On or near Theatre/concert Hall,Force,Investigation complete; no suspect identified,2025-08,2025-08
+theft-from-the-person,a4409ac95e4941370f33a4ca4e653d35334ebb1bb2fcac0f0a46cae84134d904,2025-09,51.517287,-0.130403,1678024,On or near Parking Area,Force,Investigation complete; no suspect identified,2025-09,2025-09
+other-theft,da33b1e403bedc5ca3ca55da0e6b3cd427629a28a2c53f6d55ca41735efc91a9,2025-09,51.516178,-0.131904,1677833,On or near Further/higher Educational Building,Force,Investigation complete; no suspect identified,2025-09,2025-09
+public-order,66110c60da0d67ac272e1ac20ddfe7e318217135256312aa11cad92712eae621,2025-10,51.514832,-0.124162,1678939,On or near Betterton Street,Force,Under investigation,2025-10,2025-10
+anti-social-behaviour,,2025-10,51.511783,-0.129778,1678199,On or near Nightclub,Force,,,2025-10
+drugs,8f2d79826130993ec2f074669fbce4f5e2382a1fc844132cdf903ee629873917,2025-09,51.522284,-0.125153,1678831,On or near Russell Square,Force,Local resolution,2025-11,2025-09
+other-theft,b9e70947a22f09850532956cb9cd589675514fa0299755789b0fab754edba72c,2025-09,51.501162,-0.116252,1680084,On or near Addington Street,Force,Investigation complete; no suspect identified,2025-09,2025-09
+theft-from-the-person,0123770ea70ecedd8ea65825ce748388219fef5da595b8b51ba4dc39e4b990c1,2025-11,51.515087,-0.136201,1677233,On or near Noel Street,Force,Investigation complete; no suspect identified,2025-11,2025-11
+anti-social-behaviour,,2025-08,51.501162,-0.116252,1680084,On or near Addington Street,Force,,,2025-08
+robbery,89592f7109e0536bf2380db52c5792fbd08b3a498e57216de8cda0febe400a90,2025-09,51.506736,-0.1268,1678642,On or near Craig's Court,Force,Investigation complete; no suspect identified,2025-11,2025-09
+violent-crime,616d23f7010a247172e257dee604e0a27b3ba226135c721bdc99c713350e09bf,2025-08,51.506136,-0.115773,1680093,On or near Parking Area,Force,Investigation complete; no suspect identified,2025-08,2025-08
+public-order,0763a3584647a545de8423315a3e188b58e9f4868e7d106bba646f297e81a531,2025-10,51.504925,-0.124886,1678852,On or near Horse Guards Avenue,Force,Under investigation,2025-10,2025-10
+shoplifting,2cceb903da5093c2bd339bfbe6b54c435f554432fb276f834d04b374daab8bc5,2025-10,51.518072,-0.131077,1677895,On or near Morwell Street,Force,Investigation complete; no suspect identified,2025-10,2025-10
+anti-social-behaviour,,2025-10,51.509491,-0.125924,1678539,On or near William Iv Street,Force,,,2025-10
+theft-from-the-person,d0e890d8b17cd09bdca453b6d4ae0c8a916cc5abba889c3a0d3baf462e62d500,2025-07,51.514012,-0.131078,1677997,On or near Nightclub,Force,Investigation complete; no suspect identified,2025-07,2025-07
+violent-crime,fb5dbac01a113ec9c83e2b2fa4931c84ffff93ae9d05f8534b1d0859d7c4f62f,2025-07,51.504479,-0.149487,1675130,On or near Grantham Place,Force,Status update unavailable,2025-11,2025-07
+other-theft,42a0a438ca38bddabb8296d8df93647a806078b1ca99362c85a6c9080f7c3939,2025-09,51.497835,-0.137092,1676929,On or near Spenser Street,Force,Investigation complete; no suspect identified,2025-10,2025-09
+robbery,757aa60867669aba4e068639f98695f9c5a03f9dd646f8b3bfb43a7e29ad72c7,2025-11,51.51179,-0.132459,1677744,On or near A401,Force,Under investigation,2025-11,2025-11
+criminal-damage-arson,b7d7577dd2760e541660dbff16e2663c2692b27ab1397bc3ee23e3b63402bc46,2025-11,51.513804,-0.130733,1678045,On or near Greek Street,Force,Under investigation,2025-11,2025-11
+theft-from-the-person,245f1429e4cc89686cb1aca64b65ff5e67196628b2104c3bea1747b568166f0d,2025-10,51.507286,-0.128903,1678357,On or near Parking Area,Force,Investigation complete; no suspect identified,2025-10,2025-10
+anti-social-behaviour,,2025-08,51.51682,-0.127583,1678501,On or near Dyott Street,Force,,,2025-08
+theft-from-the-person,7eff86e8988b79a5781f89fbe6bb0c7231ae9137b9b054b43abca126f047f899,2025-09,51.512117,-0.123121,1679112,On or near Shopping Area,Force,Investigation complete; no suspect identified,2025-09,2025-09
+other-theft,50482a48e0a5941c893bc2fef905f5044f2023af54f7f6705fd8ae1b183a482c,2025-08,51.517742,-0.125614,1678770,On or near Little Russell Street,Force,Unable to prosecute suspect,2025-10,2025-08
+burglary,2a8ba0b90cd79f5747ac2d13fec5b3a1813e26b043d0760187dea29de2dca94a,2025-11,51.512114,-0.134189,1677514,On or near Shopping Area,Force,Under investigation,2025-11,2025-11
+violent-crime,35838bf063c9dad480fb1693eb369c175d9bd3495c1cc060ea656666f24832c2,2025-10,51.508087,-0.124122,1678961,On or near Nightclub,Force,Under investigation,2025-10,2025-10
+anti-social-behaviour,,2025-07,51.518558,-0.143801,1676082,On or near Theatre/concert Hall,Force,,,2025-07
+other-theft,dd9457e8b961d68e9c1bcf7698d0debee51953d974fd699bf764f51b06f25593,2025-10,51.502823,-0.119257,1679478,On or near Theme/adventure Park,Force,Investigation complete; no suspect identified,2025-10,2025-10
+theft-from-the-person,e11591c717ba23533812fa3c4a667372f3c31bf80cfc1b5d79088ee92745b8bc,2025-11,51.516875,-0.141807,1676380,On or near Nightclub,Force,Investigation complete; no suspect identified,2025-11,2025-11
+violent-crime,4528ea2b0eae012d34c5233876d4da1b0f5847a5aef2c5810e7bf4e04214831b,2025-07,51.516037,-0.128682,1678369,On or near Earnshaw Street,Force,Unable to prosecute suspect,2025-07,2025-07
+criminal-damage-arson,e2ca35714a33cad7c5f73e116379867da5d8fa75644bb0c00c28ea0bf70db42c,2025-07,51.520697,-0.134429,1677436,On or near Tottenham Court Road,Force,Investigation complete; no suspect identified,2025-08,2025-07
+anti-social-behaviour,,2025-07,51.508964,-0.122761,1679195,On or near Lower Robert Street,Force,,,2025-07
+theft-from-the-person,c7c433de0b6a25c81659b59959e53f856a94f0995f9189513b184aa6c6b417ce,2025-07,51.516178,-0.131904,1677833,On or near Further/higher Educational Building,Force,Investigation complete; no suspect identified,2025-07,2025-07
+robbery,663f583d46f58c24567488855c323fdf4793dc7b797e9dc36b6ea183c28d9cf7,2025-09,51.515088,-0.140222,1676649,On or near Hills Place,Force,Under investigation,2025-09,2025-09
+shoplifting,ebd664e86bb89e3b17104952b73f91653fbb948612f1dd921c75d50335c5a1de,2025-11,51.501201,-0.111971,1680949,On or near Johanna Street,Force,Awaiting court outcome,2025-11,2025-11
+other-theft,081e6d9c9abbb53705aa7507ccce387c162802c81522a7734686bf1f3801abb4,2025-11,51.511608,-0.134599,1677382,On or near Smith's Court,Force,Under investigation,2025-11,2025-11
+shoplifting,b23d7b60c9f12f6738379342772b4ae3df1c3c85dc85994f7518711051054159,2025-09,51.513753,-0.125331,1678851,On or near Shelton Street,Force,Investigation complete; no suspect identified,2025-09,2025-09
+burglary,dccfa578f74229d5e1c0de8e01401257335c87d49f5f81cf9c1e1b0b064bf1b8,2025-10,51.52106,-0.122797,1679230,On or near Cosmo Place,Force,Under investigation,2025-10,2025-10
+shoplifting,62549aff27c8742a8597c120f6033ed79ea9a2be84970cecb5c72990bb642977,2025-09,51.518231,-0.112953,1490726,On or near Southampton Buildings,Force,Investigation complete; no suspect identified,2025-09,2025-09
+violent-crime,4721037e8c890541b9aa2bd0e5cd50c1ec1985192c02a2a4c00b62723502fed9,2025-07,51.508964,-0.122761,1679195,On or near Lower Robert Street,Force,Status update unavailable,2025-11,2025-07
+anti-social-behaviour,,2025-07,51.513361,-0.12833,1678384,On or near Theatre/concert Hall,Force,,,2025-07
+theft-from-the-person,5eebb4a532d76be370d998da18029532f717041c62d09957549ce688ecf37b89,2025-07,51.512811,-0.133325,1677641,On or near Theatre/concert Hall,Force,Investigation complete; no suspect identified,2025-07,2025-07
+violent-crime,0a58057358c7bb7dda4555990c9d26608783146e5798765cf070566d3bbc0ffc,2025-09,51.500211,-0.126492,1678547,On or near A302,Force,Under investigation,2025-09,2025-09
+theft-from-the-person,a24c9758f3166fec77927249b3094e75a35a820630e3b29a0b4b1d3465162eb9,2025-07,51.515939,-0.132693,1677739,On or near Soho Street,Force,Investigation complete; no suspect identified,2025-07,2025-07
+other-theft,a2cc9d2608c1d46e7347f60da4e6444b69a85a34d9516b1e5df6deee9090db7b,2025-07,51.513777,-0.123456,1679100,On or near B402,Force,Investigation complete; no suspect identified,2025-11,2025-07
+anti-social-behaviour,,2025-07,51.50845,-0.143266,1676091,On or near Nightclub,Force,,,2025-07
+theft-from-the-person,04843b48ac1dd9aa02a212bfc7261dff411d526f19f0befeb54c29f4cd5783e4,2025-09,51.499042,-0.11193,1680867,On or near Lambeth North,Force,Investigation complete; no suspect identified,2025-11,2025-09
+shoplifting,5dd3542caccb55d5108e5b23866795dbd342e58549a380425d91f66e2a6ecfab,2025-10,51.496508,-0.13961,1676664,On or near Ambrosden Avenue,Force,Investigation complete; no suspect identified,2025-10,2025-10
+public-order,4b20fa26cf32b0afccaa72f534a48be6eff63cc6bfeef7ce3346c35d73b7e6dc,2025-08,51.514185,-0.135459,1677307,On or near Berwick Street,Force,Under investigation,2025-08,2025-08
+theft-from-the-person,efda036297b4d34180e1455aa86d524f748bf54e0aeb1e6ae09b06c4bdfe10f4,2025-10,51.51084,-0.128984,1678254,On or near Nightclub,Force,Investigation complete; no suspect identified,2025-10,2025-10
+robbery,12eee8a56bfcf48cc6edc1d755f1068a6b5d4394fd9b415e8fe8a33c99ea77de,2025-09,51.516058,-0.140154,1676584,On or near Market Place,Force,Awaiting court outcome,2025-09,2025-09
+anti-social-behaviour,,2025-10,51.495591,-0.136794,1677126,On or near Greencoat Row,Force,,,2025-10
+theft-from-the-person,b4cdbfe91d10e89bae4bf7eaaae8ba36c5f077085d13bf8a21f16b51d85835ef,2025-09,51.503196,-0.127032,1678183,On or near Downing Street,Force,Investigation complete; no suspect identified,2025-09,2025-09
+shoplifting,7bb6cc171d6775cbff199345d565e0dc2d7d73dedfc3536c90d086d1c49cb107,2025-10,51.518231,-0.112953,1490726,On or near Southampton Buildings,Force,Investigation complete; no suspect identified,2025-10,2025-10
+robbery,450c7fb88bfe5d37840519c61fad5ed8e44a61c3f9a811ae1cdc4e69885ca61e,2025-11,51.516058,-0.140154,1676584,On or near Market Place,Force,Under investigation,2025-11,2025-11
+other-theft,40c3e400aff8d23f17a1f5a0f6db6b76aeb89832df56e47f65131df5eff8f75c,2025-09,51.507477,-0.109679,1681056,On or near Upper Ground,Force,Investigation complete; no suspect identified,2025-11,2025-09
+other-theft,45fd2e043c5ae2b339d2b5309ccb65e9927eaedaa7d4fd78229545a1ea65e2b0,2025-10,51.516623,-0.132976,1677604,On or near Nightclub,Force,Investigation complete; no suspect identified,2025-10,2025-10
+violent-crime,38093b360f7dabfc11a078984a7df76e3007cab492987763de32cd6537a25554,2025-08,51.50627,-0.137627,1676932,On or near Pall Mall Place,Force,Under investigation,2025-08,2025-08
+anti-social-behaviour,,2025-08,51.517311,-0.145464,1675915,On or near Dean's Mews,Force,,,2025-08
+shoplifting,92a1e1f4b69139526841e640fc31c71c4e79ce82d861759d2aa8c2816ce7e25d,2025-07,51.518231,-0.112953,1490726,On or near Southampton Buildings,Force,Investigation complete; no suspect identified,2025-09,2025-07
+shoplifting,da5e598846f06deeb2383deca713b100011cedc2830ba259cb32c633b038c787,2025-10,51.495591,-0.136794,1677126,On or near Greencoat Row,Force,Investigation complete; no suspect identified,2025-10,2025-10
+theft-from-the-person,0460cedf1c4d99a48a31165f097c390d2557ecc6673d9d8424bcfa432b8e6ee9,2025-07,51.514012,-0.131078,1677997,On or near Nightclub,Force,Investigation complete; no suspect identified,2025-07,2025-07
+other-theft,3356428e11ee419f69b5f786fa258ea38151bd69ef57daad7b95c3f72ca28321,2025-10,51.500978,-0.125524,1678704,On or near Bridge Street,Force,Investigation complete; no suspect identified,2025-11,2025-10
+theft-from-the-person,21af5b7397d74b24bcc8e88c3c8c71e0b437f2e31d7fdd0bc0eab3716ea6e9a5,2025-09,51.512482,-0.13416,1677437,On or near Nightclub,Force,Unable to prosecute suspect,2025-09,2025-09
+other-theft,ef311372d7beef39ac01fd8a59eddfd3d19ae20d30d710b35498cbb14ca53aa1,2025-10,51.512013,-0.133502,1677575,On or near Winnett Street,Force,Under investigation,2025-10,2025-10
+other-crime,66467f6c38aea41cc691aa3d492f55b5eb1c478973899511e464a797c29f8a69,2025-08,51.502663,-0.113423,1680404,On or near London Waterloo,Force,Awaiting court outcome,2025-08,2025-08
+anti-social-behaviour,,2025-08,51.517803,-0.133971,1677586,On or near Percy Mews,Force,,,2025-08
+theft-from-the-person,ce5990a3255c91f9654ab05205ecfc864a16ada9d27739050c44babe003e5217,2025-10,51.512133,-0.117918,1679789,On or near Montreal Place,Force,Investigation complete; no suspect identified,2025-10,2025-10
+theft-from-the-person,35c04c4e0e376319c04dc1d7498a39792b0526e387568888458fecef5d136780,2025-11,51.499692,-0.114266,1680405,On or near Westminster Bridge Road,Force,Investigation complete; no suspect identified,2025-11,2025-11
+other-theft,d84b693bf2a5e92be29818fb769947785c5198ba1b0e3c30fb6946302b44aa73,2025-10,51.510373,-0.120887,1679248,On or near Savoy Court,Force,Under investigation,2025-10,2025-10
+theft-from-the-person,32bf8932ec35a255ed3a8e6ef115bf655b04ab78ee8771cb11c78d618b6822ed,2025-09,51.518405,-0.119302,1679695,On or near Procter Street,Force,Investigation complete; no suspect identified,2025-09,2025-09
+theft-from-the-person,370bba7555d37f488f6c4b5aaed3f645623daf4eed26f7497898409d4bc6a037,2025-09,51.512495,-0.138915,1676635,On or near Nightclub,Force,Investigation complete; no suspect identified,2025-09,2025-09
+shoplifting,312de3a3fc153c98a64341cd6c86538a280662ba1ca2c41d30594db72525d2f3,2025-09,51.496508,-0.13961,1676664,On or near Ambrosden Avenue,Force,Investigation complete; no suspect identified,2025-09,2025-09
+shoplifting,05551a468eb1b1d0593698152d1dc00214a60f52918aee70737b76913b8bf203,2025-10,51.498175,-0.140363,1676627,On or near Palace Street,Force,Investigation complete; no suspect identified,2025-10,2025-10
+theft-from-the-person,a34492116951f48cc7a931cfa374d86b3bed3364f34c86913e2831f19c545b68,2025-10,51.513064,-0.129438,1678198,On or near Shaftesbury Avenue,Force,Investigation complete; no suspect identified,2025-11,2025-10
+theft-from-the-person,e0edee979483d4f35e8fd142f4e18e6872e6eccae5ee8ef6a5649eb32f44be5f,2025-11,51.514684,-0.140844,1676465,On or near Argyll Street,Force,Investigation complete; no suspect identified,2025-11,2025-11
+shoplifting,6421879c1f51735666918e1fe657f7eeeb8b5a341235e01a98b79080cb37a226,2025-07,51.514523,-0.12958,1678276,On or near Theatre/concert Hall,Force,Investigation complete; no suspect identified,2025-07,2025-07
+other-theft,d47e005840a240e48dd861df610d2d1e36cb778f3b1c470120fca4cc9f1d76a9,2025-08,51.50797,-0.133162,1677656,On or near Charles Ii Street,Force,Investigation complete; no suspect identified,2025-08,2025-08
+anti-social-behaviour,,2025-09,51.503196,-0.127032,1678183,On or near Downing Street,Force,,,2025-09
+violent-crime,875225597e6586f561a3be65b600f863fca8f9bace524e4b224fdc269891f9ab,2025-07,51.510295,-0.132318,1677826,On or near Coventry Street,Force,Unable to prosecute suspect,2025-09,2025-07
+theft-from-the-person,f270a54e3234a91329ed41ce82d47c274f9619cac9a570b20a66c012c2810c8a,2025-11,51.516178,-0.131904,1677833,On or near Further/higher Educational Building,Force,Under investigation,2025-11,2025-11
+other-theft,4d54e458a76fbabedd304e41b6587baa00c6f35565837b78ecce792b7af7617c,2025-07,51.513114,-0.138803,1676865,On or near Ganton Street,Force,Investigation complete; no suspect identified,2025-08,2025-07
+robbery,6205d079f8ea1352eb50840194e4c619e6e6314c554e042987efcaff98551a23,2025-10,51.512994,-0.129023,1678281,On or near Charing Cross Road,Force,Unable to prosecute suspect,2025-11,2025-10
+other-theft,0be44f57d2ab0e59fc4a3164e7bc049f9aa42c88a3e4df8f492e96eca9f130c4,2025-07,51.51947,-0.139842,1676720,On or near Candover Street,Force,Investigation complete; no suspect identified,2025-07,2025-07
+theft-from-the-person,e957761fe3599df53489c69d206fb7be0b723e2ea97fc2f335705ed99d84ba08,2025-10,51.500978,-0.125524,1678704,On or near Bridge Street,Force,Investigation complete; no suspect identified,2025-10,2025-10
+theft-from-the-person,b707b82f485be7edee09232820ae631c107a9613d807f76c7ae03d49cc01bd71,2025-08,51.511703,-0.128701,1678351,On or near Little Newport Street,Force,Investigation complete; no suspect identified,2025-09,2025-08
+violent-crime,d15ae575f60ddadeb61a62c696dfbeffd31d1847c58d8bb6e29968be2609eb5a,2025-10,51.496508,-0.13961,1676664,On or near Ambrosden Avenue,Force,Investigation complete; no suspect identified,2025-10,2025-10
+shoplifting,ecffe649a4057e4c7be9d418422f30659d35533e639cdbf0ee1ce917f7257e0c,2025-10,51.5136,-0.148512,1675493,On or near Shopping Area,Force,Investigation complete; no suspect identified,2025-10,2025-10
+theft-from-the-person,1e1cbf72e061aa32c2ae229bd813a622e86c53ab3db79e42d562d81efc9046b2,2025-07,51.51347,-0.136339,1677129,On or near Broadwick Street,Force,Investigation complete; no suspect identified,2025-07,2025-07
+shoplifting,16822af055e48a90cbc024fc922be4d8d8b272790f1b023bcbb95e8da8867285,2025-11,51.514365,-0.143408,1675924,On or near Princes Street,Force,Investigation complete; no suspect identified,2025-11,2025-11
+other-theft,c64a903dc1043fb0cfefa4e38a6ffee88dd8ecc8cfca2c4a236f7f84346316ad,2025-10,51.496941,-0.130617,1677903,On or near Conference/exhibition Centre,Force,Investigation complete; no suspect identified,2025-10,2025-10
+other-theft,3e8c5f716e610fc5cc917c1a0400d2124f7ce96aea5195b324b874d956b39257,2025-07,51.515088,-0.140222,1676649,On or near Hills Place,Force,Investigation complete; no suspect identified,2025-07,2025-07
+theft-from-the-person,e5755fbf1767ab3223cbc3594624c26cefbb197ad93062e9b218496b42d19cd1,2025-10,51.499401,-0.129234,1678232,On or near The Sanctuary,Force,Investigation complete; no suspect identified,2025-10,2025-10
+bicycle-theft,42be6fb8048ef62bf9f08497572e3cce4df34075c9441ed0c3f52e4f1583a4ed,2025-11,51.499071,-0.117649,1679949,On or near Hospital,Force,Investigation complete; no suspect identified,2025-11,2025-11
+violent-crime,3b07fc5904bd6a7f5c86f6e9f678f82d58947635ffce3c457cbb6cbbf60e1dc1,2025-10,51.521182,-0.120889,1679405,On or near Ormond Close,Force,Under investigation,2025-10,2025-10
+theft-from-the-person,8b771eb67913bbf9bb3925a64afdb1914ad7d6279e0053873a26812ff70d5434,2025-07,51.515088,-0.140222,1676649,On or near Hills Place,Force,Investigation complete; no suspect identified,2025-07,2025-07
+theft-from-the-person,c2554f7ee6d658c54f740386f19156d1da21ee4b9f63e66e26ea567b87f115af,2025-11,51.514365,-0.143408,1675924,On or near Princes Street,Force,Investigation complete; no suspect identified,2025-11,2025-11
+other-theft,4603aada58125db5c51a10033f3fe839741673a36b281d0e420d6af71bee54a5,2025-09,51.507466,-0.108441,1681530,On or near Broadwall,Force,Investigation complete; no suspect identified,2025-09,2025-09
+public-order,279ed2b7938ca0018b15a3a0ebeaabeb1ae40e622221d06611021b1ff452c582,2025-09,51.506797,-0.145963,1675807,On or near Half Moon Street,Force,Under investigation,2025-09,2025-09
+violent-crime,9520c1752d9d44e13b56d17e5e4138d1a495dd576f8d5617ea7351183422b0d5,2025-11,51.506563,-0.117124,1679770,On or near Ferry Terminal,Force,Unable to prosecute suspect,2025-11,2025-11
+theft-from-the-person,988370785ed08bd78379f0598d0a5f537e5c6cd471c6f7a69197d2d0bbf9c589,2025-08,51.50028,-0.116091,1680169,On or near Further/higher Educational Building,Force,Investigation complete; no suspect identified,2025-08,2025-08
+theft-from-the-person,8ca7f8c7f3a6d01a314707d2145b6fd32888043157369f373b958c85cc83cbd7,2025-07,51.515088,-0.140222,1676649,On or near Hills Place,Force,Investigation complete; no suspect identified,2025-07,2025-07
+bicycle-theft,d56a7c540af1475644193c88636537ab2c75ad0e62f7e09413fd7ccfe9470c17,2025-09,51.514832,-0.124162,1678939,On or near Betterton Street,Force,Investigation complete; no suspect identified,2025-09,2025-09
+other-theft,4e6a1d60d15d5557f5934be7436733bb5d499d7fa4c77f11b63125743443b749,2025-11,51.516058,-0.140154,1676584,On or near Market Place,Force,Investigation complete; no suspect identified,2025-11,2025-11
+theft-from-the-person,b2d8c56bf29919d6c51048d40d86a5c8bb5a6316edb0e11592589c7cd82b8572,2025-08,51.500978,-0.125524,1678704,On or near Bridge Street,Force,Under investigation,2025-08,2025-08
+burglary,ed741775b3ba458f5109ea116fa03b9c42ec707925a4966dae1d20ce4c397fc2,2025-09,51.518495,-0.135615,1677246,On or near Rathbone Street,Force,Under investigation,2025-09,2025-09
+bicycle-theft,0f6466a840681881feec55eb5eda4586e9a40f2603895466d42e15e5fdfc472a,2025-11,51.512449,-0.115772,1680063,On or near Surrey Street,Force,Investigation complete; no suspect identified,2025-11,2025-11
+theft-from-the-person,d209c68b84c4fbff1cf474a86ca236cdd97e26469973bd05168c3f1b648a4027,2025-11,51.510473,-0.143551,1676101,On or near Barlow Place,Force,Unable to prosecute suspect,2025-11,2025-11
+shoplifting,e19807bee2d37abea18de5c30b2e196ad606eecf545ce97ffc49a43877fe87e3,2025-08,51.511111,-0.12371,1679082,On or near Henrietta Street,Force,Investigation complete; no suspect identified,2025-08,2025-08
+anti-social-behaviour,,2025-10,51.513601,-0.131534,1677939,On or near Frith Street,Force,,,2025-10
+theft-from-the-person,8a20135a9782f21b25f62e85cad73afa9daf34b4afa45578e388df07adb04990,2025-09,51.514704,-0.130826,1678048,On or near Manette Street,Force,Investigation complete; no suspect identified,2025-09,2025-09
+other-theft,de901a62045fbffd1460a052a90989079d20d39fdf07e1176d934bb3ddf4d437,2025-09,51.513019,-0.130592,1678021,On or near Romilly Street,Force,Investigation complete; no suspect identified,2025-09,2025-09
+anti-social-behaviour,,2025-07,51.517727,-0.128612,1678383,On or near Further/higher Educational Building,Force,,,2025-07
+anti-social-behaviour,,2025-10,51.498175,-0.140363,1676627,On or near Palace Street,Force,,,2025-10
+theft-from-the-person,3380f0257fccf3206afcae8c71127f1408f3ef5f0ecbb693553a50032cd84510,2025-07,51.514684,-0.140844,1676465,On or near Argyll Street,Force,Investigation complete; no suspect identified,2025-07,2025-07
+theft-from-the-person,927342dc4cc2ab80c558f8f6ca0c4330ae8fe8df6e273ac5d40c9fef4a91859c,2025-11,51.511703,-0.128701,1678351,On or near Little Newport Street,Force,Investigation complete; no suspect identified,2025-11,2025-11
+shoplifting,feeec0100a23fad10bd16f049ab30448251cb776660e5cba4d4604d63c931428,2025-08,51.519933,-0.133899,1677494,On or near Shopping Area,Force,Investigation complete; no suspect identified,2025-08,2025-08
+theft-from-the-person,0a32aebe48ed76fb47a4d1f168b38f17a8115219957b3a0331a46ddf9f53dae5,2025-10,51.515753,-0.143092,1676083,On or near John Prince's Street,Force,Investigation complete; no suspect identified,2025-10,2025-10
+other-theft,d6ec2e08b1904a82695cba8314960fc06e72dfcfea3e3cd83b59ba5b495e0a8a,2025-08,51.511623,-0.125951,1678738,On or near Rose Street,Force,Under investigation,2025-08,2025-08
+other-theft,aa5338074259821379274e3fb938e15571e59274830be8ae9e7f998d024d8e2e,2025-11,51.513827,-0.142363,1676355,On or near Hanover Street,Force,Investigation complete; no suspect identified,2025-11,2025-11
+theft-from-the-person,ed4ff2cfa40cb5d7516aeaf02e2b54c6cc34a1a6dee084e669f8a8b6be56dc20,2025-10,51.510468,-0.130769,1678029,On or near Leicester Square,Force,Investigation complete; no suspect identified,2025-10,2025-10
+anti-social-behaviour,,2025-07,51.493939,-0.129039,1678342,On or near B326,Force,,,2025-07
+theft-from-the-person,b877690a77dd2cd2d22787a92d95f5196af4a81931da3c1cde4ffce728af47b2,2025-11,51.509962,-0.137952,1676943,On or near Nightclub,Force,Investigation complete; no suspect identified,2025-11,2025-11
+theft-from-the-person,92f5bdc057b9292c48dceeb97555a1c3a037de021de1e9f2d9be1df261c292bc,2025-11,51.51397,-0.134387,1677442,On or near Wardour Street,Force,Investigation complete; no suspect identified,2025-11,2025-11
+shoplifting,1c825b1c0deb15960187b2d2e435c7d2d676b0c0e7273870de24e94d5dd3fd1d,2025-08,51.515088,-0.140222,1676649,On or near Hills Place,Force,Investigation complete; no suspect identified,2025-08,2025-08
+theft-from-the-person,fb8ef681262c0a12cd954a7f4cb673a2e871f3bc6caa30e4356f906edc59cc99,2025-08,51.514492,-0.131037,1677987,On or near Nightclub,Force,Investigation complete; no suspect identified,2025-10,2025-08
+robbery,571b47329236db61555e8778c798b06212c82c1d975aa1895721a03928224e98,2025-07,51.513757,-0.111567,1490733,On or near Middle Temple Lane,Force,Unable to prosecute suspect,2025-08,2025-07
+violent-crime,a5ad306b0f399cd70b8dc0183a94d33a1db8a344837702028444dc8a8b388935,2025-08,51.514012,-0.131078,1677997,On or near Nightclub,Force,Investigation complete; no suspect identified,2025-10,2025-08
+shoplifting,6e03e84affa675c4b8478d929b271bf06069cfe67c89baa333e0c11abe8836a4,2025-08,51.496508,-0.13961,1676664,On or near Ambrosden Avenue,Force,Investigation complete; no suspect identified,2025-08,2025-08
+theft-from-the-person,e3b1b46bae7d4970a1899afb64e121fca425ee7a59b7be85e501c9ad7d6ad8e0,2025-07,51.497194,-0.136326,1677168,On or near Shopping Area,Force,Investigation complete; no suspect identified,2025-07,2025-07
+theft-from-the-person,82daf758baa0d3433d11f73d2df99077baf9969df07a02245bba713ab1a36dd7,2025-11,51.515753,-0.143092,1676083,On or near John Prince's Street,Force,Under investigation,2025-11,2025-11
+robbery,1e4b98438b14cce1d84ef1715af04616f34759600465f55da09aa5131ad901c9,2025-09,51.515189,-0.129653,1678192,On or near Denmark Street,Force,Investigation complete; no suspect identified,2025-11,2025-09
+vehicle-crime,6bb777887096ded6eb23fde2cc32e66509547aa0ef33d311b631fbc150fbe004,2025-08,51.510433,-0.140455,1676487,On or near Parking Area,Force,Investigation complete; no suspect identified,2025-08,2025-08
+shoplifting,bf81b878f349035c05d2751503ad951d83cabc83734cb1461adaca622ffbb605,2025-11,51.507766,-0.141284,1676493,On or near Nightclub,Force,Investigation complete; no suspect identified,2025-11,2025-11
+theft-from-the-person,b27244233b4a480536711bae458880cd92283cafb144ce57062b694ddddb5b04,2025-07,51.513708,-0.140004,1676706,On or near Little Marlborough Street,Force,Investigation complete; no suspect identified,2025-10,2025-07
+violent-crime,dfb39f94f7d4a9b408cb72d98a1bf24c70c939fb92f6b30536e2138bb9cbd716,2025-11,51.517287,-0.130403,1678024,On or near Parking Area,Force,Under investigation,2025-11,2025-11
+theft-from-the-person,cabec91d5a08011fec0d03ff83880d122759d727ef1a0ab4f862722c35fff927,2025-10,51.512336,-0.14705,1675706,On or near Brook's Mews,Force,Investigation complete; no suspect identified,2025-10,2025-10
+violent-crime,08c863dd22264126c0b44d54536d6d1cbb2da84a676f192577dd0ba2279b9892,2025-07,51.5132,-0.131248,1677992,On or near Old Compton Street,Force,Awaiting court outcome,2025-08,2025-07
+other-theft,738518d0b6572e3001bc7744f0d173e3ffe4fc44ab9c2a47ce7a9fde10c67888,2025-11,51.51547,-0.134874,1677386,On or near Hollen Street,Force,Under investigation,2025-11,2025-11
+shoplifting,1aec4dd48b7d7f850012cadf8a176988c178e9021d1633bea44ac32fdc87f921,2025-09,51.512789,-0.135372,1677293,On or near Ingestre Place,Force,Investigation complete; no suspect identified,2025-09,2025-09
+anti-social-behaviour,,2025-10,51.494745,-0.133933,1677511,On or near Elverton Street,Force,,,2025-10
+robbery,ec1f04b07fd0f57948e1c12ccc672546c854354a333aa44a66e62b3b1af8cc4a,2025-11,51.509807,-0.131055,1678020,On or near Whitcomb Street,Force,Under investigation,2025-11,2025-11
+drugs,e7354035ca2327a12b250f8764c2aa230a1b000ab75a53de1a1c238affbc7bab,2025-11,51.500978,-0.125524,1678704,On or near Bridge Street,Force,Under investigation,2025-11,2025-11
+theft-from-the-person,bf639fe48bca58f22e36654094d197e8827a1c661a0c5418b8a97d1a93ae6ea1,2025-08,51.510513,-0.125161,1678829,On or near Bedford Court,Force,Investigation complete; no suspect identified,2025-08,2025-08
+theft-from-the-person,3963f1e102d37dba3da1621b951a4b72c0c9f5dab31145c243a1a36da771f630,2025-08,51.504717,-0.148022,1675503,On or near Down Street Mews,Force,Investigation complete; no suspect identified,2025-08,2025-08
+shoplifting,82a5e1e9b23f773079243136ed0c071b4813e7d1358d4b1915637402e6a28975,2025-08,51.510942,-0.131196,1677925,On or near Leicester Street,Force,Unable to prosecute suspect,2025-11,2025-08
+theft-from-the-person,681b99a7a99844e4f2a9aae2b27e429a6bd2b71998a04e1d648cf7fd335ebc32,2025-10,51.506563,-0.117124,1679770,On or near Ferry Terminal,Force,Investigation complete; no suspect identified,2025-10,2025-10
