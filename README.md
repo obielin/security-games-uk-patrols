@@ -2,7 +2,7 @@
 
 This repository develops a **game-theoretic framework for patrol allocation** using a **Stackelberg security game** formulation, grounded in real UK crime data. The project moves beyond predictive hotspotting by explicitly modelling the **strategic interaction between defenders and adversarial offenders**.
 
-The work is structured as a reproducible, research-oriented case study with an emphasis on transparency, auditability, and responsible use.
+The work is structured as a reproducible, research-oriented case study with an emphasis on transparency, auditability, and responsible use
 
 ---
 
